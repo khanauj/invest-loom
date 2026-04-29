@@ -1,0 +1,23 @@
+{
+  "include": [
+    "financial_engine",
+    "main.py"
+  ],
+  "exclude": [
+    "**/__pycache__"
+  ],
+  "reportMissingImports": true,
+  "reportMissingTypeStubs": false,
+  "executionEnvironments": [
+    {
+      "root": ".",
+      "pythonPath": "C:\\Users\\khana\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+      "extraPaths": [
+        "."
+      ]
+    }
+  ],
+  "extraPaths": [
+    "."
+  ]
+}

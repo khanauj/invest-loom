@@ -1,0 +1,62 @@
+[
+  {
+    "id": "de83e48b",
+    "type": "price_target",
+    "ticker": "RELIANCE.NS",
+    "target_value": 1400,
+    "direction": "above",
+    "message": "Target hit!",
+    "notify_email": null,
+    "active": true,
+    "triggered": false,
+    "created_at": "2026-03-30T11:28:07.493847",
+    "triggered_at": null,
+    "trigger_count": 0,
+    "last_trigger_message": null
+  },
+  {
+    "id": "9f07cfd2",
+    "type": "stop_loss",
+    "ticker": "TCS.NS",
+    "target_value": 2200,
+    "direction": "below",
+    "message": "Stop loss!",
+    "notify_email": null,
+    "active": true,
+    "triggered": false,
+    "created_at": "2026-03-30T11:28:07.494987",
+    "triggered_at": null,
+    "trigger_count": 0,
+    "last_trigger_message": null
+  },
+  {
+    "id": "18a0b174",
+    "type": "rsi_overbought",
+    "ticker": "HDFCBANK.NS",
+    "target_value": 72,
+    "direction": "above",
+    "message": "Overbought",
+    "notify_email": null,
+    "active": true,
+    "triggered": false,
+    "created_at": "2026-03-30T11:28:07.510555",
+    "triggered_at": null,
+    "trigger_count": 0,
+    "last_trigger_message": null
+  },
+  {
+    "id": "707f713e",
+    "type": "rsi_oversold",
+    "ticker": "INFY.NS",
+    "target_value": 28,
+    "direction": "above",
+    "message": "Oversold",
+    "notify_email": null,
+    "active": true,
+    "triggered": false,
+    "created_at": "2026-03-30T11:28:07.525601",
+    "triggered_at": null,
+    "trigger_count": 0,
+    "last_trigger_message": null
+  }
+]

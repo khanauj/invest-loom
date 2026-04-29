@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+models/
+output/
+.DS_Store
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local

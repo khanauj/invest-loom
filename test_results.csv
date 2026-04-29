@@ -1,0 +1,1001 @@
+id,action,action_detail,confidence,risk_score,risk_label,segment,equity_pct,portfolio_total,num_stocks,num_mutual_funds,concentration_warnings,duplicates,gaps,smart_suggestions
+1,EMERGENCY_FUND_BUILD,"Save INR 1,000/mo toward emergency fund (INR 127,092 gap, ~127 months)",70%,70,high,Debt-Heavy Struggler,100.0,914015,6,0,5,0,5,4
+2,REBALANCE,"Move INR 116,349 from equity to debt (88% → 70% equity)",70%,51,moderate,Young Accumulator,87.68,657342,5,2,2,0,4,4
+3,CONTINUE_SIP,"Continue SIP at INR 1,250/mo — on track (4.1% of salary)",80%,49,moderate,Aggressive Investor,76.08,819090,3,6,2,0,2,4
+4,EMERGENCY_FUND_BUILD,"Save INR 2,500/mo toward emergency fund (INR 150,132 gap, ~60 months)",73%,53,moderate,Aggressive Investor,84.52,466095,0,6,0,0,2,3
+5,REBALANCE,"Move INR 338,547 from equity to debt (100% → 70% equity)",85%,49,moderate,Aggressive Investor,100.0,1128490,8,3,4,0,4,4
+6,REBALANCE,"Move INR 231,255 from equity to debt (82% → 60% equity)",68%,58,moderate,Conservative Saver,82.2,1041690,8,6,3,0,4,4
+7,REBALANCE,"Move INR 134,721 from equity to debt (88% → 65% equity)",78%,65,high,Young Accumulator,88.47,573281,3,4,2,0,4,4
+8,EMERGENCY_FUND_BUILD,"Save INR 18,000/mo toward emergency fund (INR 294,045 gap, ~16 months)",77%,60,moderate,High-Risk Beginner,46.43,301090,1,0,1,0,5,4
+9,REBALANCE,"Move INR 266,370 from equity to debt (100% → 70% equity)",92%,48,moderate,Aggressive Investor,100.0,887902,6,1,2,0,5,4
+10,INCREASE_SIP,"Increase SIP by INR 1,000/mo (INR 14,324 → INR 15,324)",80%,47,moderate,Young Accumulator,73.97,590480,2,2,2,0,3,4
+11,REBALANCE,"Move INR 179,178 from equity to debt (83% → 65% equity)",68%,38,low,Young Accumulator,82.71,1012309,4,6,0,0,1,2
+12,EMERGENCY_FUND_BUILD,"Save INR 5,500/mo toward emergency fund (INR 86,160 gap, ~15 months)",77%,66,high,Goal Chaser,79.1,291563,1,3,1,0,3,4
+13,HOLD,Hold current positions — no changes needed,77%,31,low,Young Accumulator,42.09,299473,2,2,1,0,4,4
+14,EMERGENCY_FUND_BUILD,"Save INR 1,000/mo toward emergency fund (INR 285,695 gap, ~285 months)",82%,67,high,Debt-Heavy Struggler,70.75,111467,1,0,1,0,4,4
+15,REBALANCE,"Move INR 193,534 from equity to debt (85% → 70% equity)",60%,37,low,Aggressive Investor,84.52,1334718,6,6,4,0,3,4
+16,EMERGENCY_FUND_BUILD,"Save INR 3,500/mo toward emergency fund (INR 86,835 gap, ~24 months)",72%,59,moderate,Aggressive Investor,75.4,162449,2,1,2,0,5,4
+17,EMERGENCY_FUND_BUILD,"Save INR 2,500/mo toward emergency fund (INR 105,972 gap, ~42 months)",73%,72,high,Debt-Heavy Struggler,90.91,511306,5,2,2,0,5,4
+18,REBALANCE,"Move INR 313,509 from equity to debt (92% → 65% equity)",93%,46,moderate,Balanced Planner,92.42,1144197,6,4,3,0,3,4
+19,REBALANCE,"Move INR 267,824 from equity to debt (93% → 65% equity)",93%,51,moderate,Young Accumulator,93.35,946375,8,1,2,0,4,4
+20,EMERGENCY_FUND_BUILD,"Save INR 4,500/mo toward emergency fund (INR 146,300 gap, ~32 months)",72%,52,moderate,Aggressive Investor,83.19,444905,1,6,0,0,3,3
+21,INCREASE_SIP,"Increase SIP by INR 1,000/mo (INR 14,431 → INR 15,431)",86%,16,very_low,Conservative Saver,36.65,549664,3,1,1,0,4,4
+22,INCREASE_SIP,"Increase SIP by INR 1,000/mo (INR 21,394 → INR 22,394)",86%,39,low,Balanced Planner,62.06,880509,4,6,2,0,1,3
+23,SELL,"Sell INR 321,576 of equity holdings (40% of equity)",97%,53,moderate,Goal Chaser,94.25,852999,6,3,4,0,4,4
+24,START_SIP,"Start SIP at INR 5,126/mo (7.0% of salary)",88%,25,very_low,Passive Holder,0.0,105378,0,0,0,0,4,3
+25,REBALANCE,"Move INR 158,097 from equity to debt (93% → 65% equity)",93%,56,moderate,Young Accumulator,93.08,562624,4,6,2,0,4,4
+26,REBALANCE,"Move INR 93,806 from equity to debt (89% → 70% equity)",77%,40,low,Goal Chaser,89.02,493716,2,4,1,0,2,4
+27,EMERGENCY_FUND_BUILD,"Save INR 2,000/mo toward emergency fund (INR 207,525 gap, ~103 months)",90%,73,high,Debt-Heavy Struggler,72.86,411001,1,6,1,0,1,3
+28,REBALANCE,"Move INR 353,305 from equity to debt (85% → 60% equity)",78%,44,low,Young Accumulator,85.33,1396463,8,6,3,0,1,3
+29,START_SIP,"Start SIP at INR 7,000/mo (9.6% of salary)",87%,37,low,Young Accumulator,0.0,132563,0,0,0,0,4,3
+30,START_SIP,"Start SIP at INR 9,000/mo (15.0% of salary)",85%,49,moderate,Aggressive Investor,76.93,1036180,5,5,1,0,3,4
+31,SELL,"Sell INR 196,217 of equity holdings (30% of equity)",95%,67,high,Goal Chaser,81.52,802304,4,5,2,0,3,4
+32,HOLD,Hold current positions — no changes needed,67%,59,moderate,High-Risk Beginner,75.81,726046,3,6,1,0,2,4
+33,REBALANCE,"Move INR 103,939 from equity to debt (87% → 60% equity)",78%,39,low,Conservative Saver,86.78,387834,1,5,1,0,3,4
+34,START_SIP,"Start SIP at INR 6,000/mo (9.9% of salary)",79%,51,moderate,Aggressive Investor,75.5,1370561,8,4,3,0,3,4
+35,REBALANCE,"Move INR 128,416 from equity to debt (82% → 65% equity)",68%,39,low,Balanced Planner,82.0,755389,6,5,2,0,1,3
+36,REBALANCE,"Move INR 71,270 from equity to debt (100% → 65% equity)",97%,46,moderate,Goal Chaser,100.0,203629,2,2,1,0,5,4
+37,START_SIP,"Start SIP at INR 6,000/mo (14.9% of salary)",97%,29,low,Aggressive Investor,73.35,779131,7,1,1,0,3,4
+38,REDUCE_SIP,"Reduce SIP by INR 12,500/mo (INR 19,236 → INR 6,736)",67%,48,moderate,Aggressive Investor,77.8,821092,6,1,2,0,4,4
+39,REBALANCE,"Move INR 215,679 from equity to debt (88% → 65% equity)",78%,45,low,Balanced Planner,88.17,929654,8,3,3,0,4,4
+40,CONTINUE_SIP,"Continue SIP at INR 6,236/mo — on track (8.2% of salary)",83%,47,moderate,Aggressive Investor,65.76,526767,1,4,1,0,3,4
+41,SWITCH_TO_DEBT,"Shift INR 165,078 from equity to debt funds (73% → 42.8% equity)",87%,60,moderate,Goal Chaser,72.76,756272,4,3,1,0,3,4
+42,REBALANCE,"Move INR 98,916 from equity to debt (80% → 65% equity)",68%,50,moderate,Balanced Planner,80.42,642312,3,4,2,0,3,4
+43,REBALANCE,"Move INR 300,175 from equity to debt (90% → 70% equity)",92%,54,moderate,Aggressive Investor,90.11,1493410,7,6,2,0,2,4
+44,HOLD,Hold current positions — no changes needed,60%,49,moderate,Aggressive Investor,76.53,791723,4,5,2,0,3,4
+45,EMERGENCY_FUND_BUILD,"Save INR 1,000/mo toward emergency fund (INR 32,937 gap, ~32 months)",73%,61,high,Debt-Heavy Struggler,80.67,850281,5,4,4,0,3,4
+46,REBALANCE,"Move INR 237,019 from equity to debt (90% → 60% equity)",93%,60,moderate,Balanced Planner,90.28,782243,8,2,3,0,4,4
+47,SWITCH_TO_DEBT,"Shift INR 182,824 from equity to debt funds (79% → 49.4% equity)",87%,48,moderate,Goal Chaser,79.43,767257,7,5,3,0,4,4
+48,REBALANCE,"Move INR 179,489 from equity to debt (90% → 70% equity)",70%,46,moderate,Aggressive Investor,89.73,911112,7,1,3,0,4,4
+49,REBALANCE,"Move INR 186,879 from equity to debt (89% → 70% equity)",70%,46,moderate,Aggressive Investor,88.68,999353,6,6,2,0,1,3
+50,EMERGENCY_FUND_BUILD,"Save INR 1,500/mo toward emergency fund (INR 535,512 gap, ~357 months)",93%,67,high,Aggressive Investor,97.91,556417,5,2,2,0,5,4
+51,INCREASE_SIP,"Increase SIP by INR 8,500/mo (INR 2,223 → INR 10,723)",72%,47,moderate,Young Accumulator,74.2,266145,2,1,2,0,4,4
+52,EMERGENCY_FUND_BUILD,"Save INR 12,000/mo toward emergency fund (INR 343,005 gap, ~28 months)",72%,47,moderate,Balanced Planner,87.35,716779,7,4,3,0,4,4
+53,SELL,"Sell INR 182,528 of equity holdings (30% of equity)",88%,50,moderate,Goal Chaser,91.37,665914,6,2,2,0,3,4
+54,EMERGENCY_FUND_BUILD,"Save INR 1,000/mo toward emergency fund (INR 65,472 gap, ~65 months)",68%,56,moderate,Balanced Planner,89.57,1029205,8,5,3,0,4,4
+55,REBALANCE,"Move INR 25,956 from equity to debt (100% → 65% equity)",97%,48,moderate,Passive Holder,100.0,74162,0,2,0,0,4,3
+56,EMERGENCY_FUND_BUILD,"Save INR 1,500/mo toward emergency fund (INR 97,075 gap, ~64 months)",77%,52,moderate,Aggressive Investor,96.81,807566,7,4,2,0,3,4
+57,REDUCE_SIP,"Reduce SIP by INR 11,000/mo (INR 21,172 → INR 10,172)",67%,54,moderate,Balanced Planner,78.95,823668,5,0,2,0,5,4
+58,REBALANCE,"Move INR 83,391 from equity to debt (80% → 70% equity)",60%,50,moderate,Aggressive Investor,80.34,809630,8,3,1,0,4,4
+59,REDUCE_SIP,"Reduce SIP by INR 3,500/mo (INR 7,670 → INR 4,170)",67%,38,low,Conservative Saver,30.73,253894,0,3,0,0,3,3
+60,REBALANCE,"Move INR 132,957 from equity to debt (83% → 70% equity)",60%,42,low,Aggressive Investor,83.0,1022750,8,4,4,0,4,4
+61,EMERGENCY_FUND_BUILD,"Save INR 8,500/mo toward emergency fund (INR 309,384 gap, ~36 months)",80%,64,high,High-Risk Beginner,78.2,292653,2,1,1,0,5,4
+62,SELL,"Sell INR 117,323 of equity holdings (30% of equity)",88%,62,high,Goal Chaser,73.29,533608,1,6,0,0,3,3
+63,SELL,"Sell INR 71,783 of equity holdings (30% of equity)",95%,55,moderate,Goal Chaser,100.0,239277,1,4,1,0,3,4
+64,START_SIP,"Start SIP at INR 7,120/mo (10.9% of salary)",93%,51,moderate,High-Risk Beginner,65.79,341096,2,0,1,0,4,4
+65,HOLD,Hold current positions — no changes needed,67%,41,low,Balanced Planner,74.98,670408,5,2,3,0,3,4
+66,START_SIP,"Start SIP at INR 5,000/mo (11.2% of salary)",93%,47,moderate,Young Accumulator,67.4,328815,1,3,1,0,4,4
+67,REBALANCE,"Move INR 245,830 from equity to debt (97% → 60% equity)",93%,48,moderate,Passive Holder,96.77,668017,6,2,3,0,4,4
+68,REBALANCE,"Move INR 223,407 from equity to debt (91% → 65% equity)",93%,33,low,Balanced Planner,90.91,862577,7,2,4,0,3,4
+69,EMERGENCY_FUND_BUILD,"Save INR 4,500/mo toward emergency fund (INR 187,293 gap, ~41 months)",68%,48,moderate,Balanced Planner,72.88,664805,2,5,1,0,2,4
+70,REBALANCE,"Move INR 314,498 from equity to debt (99% → 65% equity)",93%,38,low,Young Accumulator,99.17,919586,8,1,3,0,5,4
+71,REBALANCE,"Move INR 283,597 from equity to debt (88% → 60% equity)",78%,37,low,Aggressive Investor,88.19,1005666,8,1,4,0,4,4
+72,REBALANCE,"Move INR 93,565 from equity to debt (80% → 70% equity)",60%,49,moderate,High-Risk Beginner,80.3,908401,3,6,0,0,2,3
+73,REBALANCE,"Move INR 186,842 from equity to debt (93% → 70% equity)",85%,53,moderate,Aggressive Investor,93.23,805357,8,4,3,0,4,4
+74,EMERGENCY_FUND_BUILD,"Save INR 8,500/mo toward emergency fund (INR 274,365 gap, ~32 months)",85%,71,high,Young Accumulator,80.85,642466,3,1,3,0,4,4
+75,EMERGENCY_FUND_BUILD,"Save INR 3,000/mo toward emergency fund (INR 161,334 gap, ~53 months)",88%,63,high,Balanced Planner,99.57,841196,8,2,5,0,4,4
+76,REBALANCE,"Move INR 172,354 from equity to debt (83% → 65% equity)",68%,42,low,Balanced Planner,82.51,984881,5,1,2,0,4,4
+77,EMERGENCY_FUND_BUILD,"Save INR 8,500/mo toward emergency fund (INR 446,064 gap, ~52 months)",93%,65,high,Aggressive Investor,86.52,741784,3,5,2,0,4,4
+78,REBALANCE,"Move INR 61,220 from equity to debt (84% → 65% equity)",68%,39,low,Passive Holder,84.28,317207,0,5,1,0,2,4
+79,START_SIP,"Start SIP at INR 10,087/mo (11.0% of salary)",93%,41,low,Aggressive Investor,79.11,567639,3,1,1,0,4,4
+80,REBALANCE,"Move INR 166,909 from equity to debt (83% → 65% equity)",68%,33,low,Aggressive Investor,82.79,937692,5,6,3,0,2,4
+81,REBALANCE,"Move INR 136,356 from equity to debt (92% → 60% equity)",93%,42,low,Passive Holder,92.48,419559,1,5,1,0,4,4
+82,EMERGENCY_FUND_BUILD,"Save INR 8,500/mo toward emergency fund (INR 312,136 gap, ~36 months)",68%,64,high,High-Risk Beginner,80.11,1117861,6,6,1,0,3,4
+83,DIVERSIFY_PORTFOLIO,"Add 1 stocks + 2 mutual funds, invest INR 2,000/mo across new instruments",83%,48,moderate,Aggressive Investor,63.39,151000,1,1,1,0,5,4
+84,REBALANCE,"Move INR 267,712 from equity to debt (94% → 65% equity)",93%,42,low,Balanced Planner,94.04,923146,5,5,3,0,1,3
+85,INCREASE_SIP,"Increase SIP by INR 7,000/mo (INR 8,608 → INR 15,608)",79%,41,low,Balanced Planner,61.11,566235,1,4,1,0,2,4
+86,CONTINUE_SIP,"Continue SIP at INR 7,929/mo — on track (22.5% of salary)",97%,45,low,Balanced Planner,55.33,460564,2,4,1,0,4,4
+87,EMERGENCY_FUND_BUILD,"Save INR 3,000/mo toward emergency fund (INR 353,880 gap, ~117 months)",80%,52,moderate,Balanced Planner,70.65,922776,6,2,3,0,4,4
+88,INCREASE_SIP,"Increase SIP by INR 7,000/mo (INR 4,197 → INR 11,197)",79%,25,very_low,Balanced Planner,45.22,531907,0,6,0,0,2,3
+89,REBALANCE,"Move INR 194,943 from equity to debt (90% → 60% equity)",93%,39,low,Aggressive Investor,90.44,641261,5,1,2,0,3,4
+90,EMERGENCY_FUND_BUILD,"Save INR 5,500/mo toward emergency fund (INR 134,348 gap, ~24 months)",68%,56,moderate,Aggressive Investor,92.09,808930,7,1,3,0,5,4
+91,REBALANCE,"Move INR 72,477 from equity to debt (82% → 70% equity)",60%,54,moderate,High-Risk Beginner,82.05,603976,3,6,0,0,3,3
+92,REBALANCE,"Move INR 157,338 from equity to debt (87% → 70% equity)",70%,56,moderate,Aggressive Investor,87.38,904242,7,0,4,0,4,4
+93,START_SIP,"Start SIP at INR 6,500/mo (9.3% of salary)",87%,38,low,Aggressive Investor,70.76,831158,4,6,1,0,1,3
+94,REBALANCE,"Move INR 343,696 from equity to debt (100% → 60% equity)",97%,42,low,Goal Chaser,100.0,859242,7,0,3,0,5,4
+95,EMERGENCY_FUND_BUILD,"Save INR 1,500/mo toward emergency fund (INR 113,970 gap, ~75 months)",68%,61,high,High-Risk Beginner,77.54,887294,5,2,3,0,4,4
+96,SELL,"Sell INR 77,161 of equity holdings (30% of equity)",88%,57,moderate,Goal Chaser,73.09,351915,1,4,0,0,3,3
+97,HOLD,Hold current positions — no changes needed,70%,42,low,Passive Holder,76.87,215712,1,2,2,0,4,4
+98,REBALANCE,"Move INR 220,394 from equity to debt (86% → 65% equity)",78%,43,low,Balanced Planner,85.87,1054517,6,6,2,0,1,3
+99,SELL,"Sell INR 96,636 of equity holdings (30% of equity)",95%,58,moderate,Goal Chaser,74.7,431231,2,3,2,0,2,4
+100,HOLD,Hold current positions — no changes needed,70%,37,low,Aggressive Investor,66.18,308923,2,1,1,0,4,4
+101,CONTINUE_SIP,"Continue SIP at INR 15,503/mo — on track (18.6% of salary)",85%,42,low,Balanced Planner,63.61,306591,1,1,2,0,4,4
+102,REDUCE_SIP,"Reduce SIP by INR 8,500/mo (INR 16,196 → INR 7,696)",67%,38,low,Aggressive Investor,76.18,799066,5,1,2,0,3,4
+103,REBALANCE,"Move INR 131,844 from equity to debt (86% → 70% equity)",70%,37,low,Aggressive Investor,86.02,824026,4,6,1,0,2,4
+104,INCREASE_SIP,"Increase SIP by INR 14,000/mo (INR 4,083 → INR 18,083)",85%,30,low,Aggressive Investor,70.65,577014,3,5,2,0,3,4
+105,INCREASE_SIP,"Increase SIP by INR 1,000/mo (INR 16,319 → INR 17,319)",97%,31,low,Aggressive Investor,41.33,317633,1,2,0,0,3,3
+106,EMERGENCY_FUND_BUILD,"Save INR 1,500/mo toward emergency fund (INR 82,190 gap, ~54 months)",80%,55,moderate,Aggressive Investor,85.48,817165,5,5,2,0,4,4
+107,SELL,"Sell INR 66,037 of equity holdings (30% of equity)",95%,60,moderate,Goal Chaser,76.52,287660,0,5,0,0,3,3
+108,REBALANCE,"Move INR 205,572 from equity to debt (94% → 70% equity)",85%,49,moderate,Aggressive Investor,93.76,863749,6,4,3,0,3,4
+109,REBALANCE,"Move INR 150,116 from equity to debt (86% → 70% equity)",70%,39,low,Aggressive Investor,86.49,909795,8,5,3,0,4,3
+110,SELL,"Sell INR 297,215 of equity holdings (30% of equity)",88%,56,moderate,Goal Chaser,95.13,1041405,7,4,2,0,2,4
+111,REBALANCE,"Move INR 125,382 from equity to debt (84% → 60% equity)",68%,43,low,Aggressive Investor,84.04,522427,2,4,1,0,3,4
+112,EMERGENCY_FUND_BUILD,"Save INR 4,000/mo toward emergency fund (INR 245,442 gap, ~61 months)",85%,58,moderate,Aggressive Investor,73.91,402001,2,1,1,0,5,4
+113,REBALANCE,"Move INR 324,192 from equity to debt (86% → 65% equity)",78%,48,moderate,Balanced Planner,86.19,1529211,8,5,3,0,4,4
+114,EMERGENCY_FUND_BUILD,"Save INR 2,500/mo toward emergency fund (INR 359,292 gap, ~143 months)",88%,75,high,Goal Chaser,74.95,913184,7,0,2,0,4,4
+115,EMERGENCY_FUND_BUILD,"Save INR 4,500/mo toward emergency fund (INR 207,744 gap, ~46 months)",88%,64,high,Conservative Saver,81.67,548711,3,4,2,0,2,4
+116,REBALANCE,"Move INR 84,139 from equity to debt (87% → 70% equity)",70%,36,low,Aggressive Investor,87.17,489183,3,5,1,0,3,4
+117,REBALANCE,"Move INR 80,215 from equity to debt (85% → 70% equity)",70%,46,moderate,Aggressive Investor,85.3,524284,3,4,1,0,3,4
+118,REBALANCE,"Move INR 25,805 from equity to debt (100% → 65% equity)",97%,64,high,Goal Chaser,100.0,73730,1,0,1,0,5,4
+119,REBALANCE,"Move INR 264,359 from equity to debt (90% → 60% equity)",93%,60,moderate,Debt-Heavy Struggler,90.19,875362,6,5,1,0,2,4
+120,EMERGENCY_FUND_BUILD,"Save INR 8,000/mo toward emergency fund (INR 90,378 gap, ~11 months)",88%,72,high,Goal Chaser,87.89,332097,0,5,0,0,2,3
+121,EMERGENCY_FUND_BUILD,"Save INR 1,000/mo toward emergency fund (INR 162,560 gap, ~162 months)",77%,62,high,Balanced Planner,84.22,1068621,7,4,2,0,2,4
+122,REBALANCE,"Move INR 78,544 from equity to debt (83% → 70% equity)",60%,44,low,Young Accumulator,83.47,581813,4,6,1,0,3,4
+123,EMERGENCY_FUND_BUILD,"Save INR 2,500/mo toward emergency fund (INR 104,244 gap, ~41 months)",68%,53,moderate,Young Accumulator,61.19,501082,3,5,2,0,3,4
+124,REBALANCE,"Move INR 210,852 from equity to debt (84% → 65% equity)",68%,37,low,Balanced Planner,84.24,1098190,8,3,4,0,1,3
+125,EMERGENCY_FUND_BUILD,"Save INR 3,000/mo toward emergency fund (INR 49,320 gap, ~16 months)",68%,69,high,Conservative Saver,83.61,858308,7,2,3,0,3,3
+126,REBALANCE,"Move INR 381,099 from equity to debt (99% → 60% equity)",93%,34,low,Aggressive Investor,98.5,989870,7,0,4,0,5,4
+127,EMERGENCY_FUND_BUILD,"Save INR 1,500/mo toward emergency fund (INR 99,005 gap, ~66 months)",90%,79,very_high,Debt-Heavy Struggler,26.55,184702,1,0,1,0,4,4
+128,SWITCH_TO_DEBT,"Shift INR 117,413 from equity to debt funds (66% → 40.0% equity)",70%,44,low,Balanced Planner,65.71,694866,3,5,2,0,3,4
+129,START_SIP,"Start SIP at INR 9,500/mo (11.5% of salary)",97%,27,low,Passive Holder,41.98,217567,2,0,1,0,4,4
+130,REBALANCE,"Move INR 330,487 from equity to debt (95% → 60% equity)",97%,47,moderate,Goal Chaser,95.15,938886,6,2,5,0,2,4
+131,SELL,"Sell INR 50,892 of equity holdings (40% of equity)",93%,50,moderate,Goal Chaser,90.86,140036,0,2,0,0,4,3
+132,REBALANCE,"Move INR 300,524 from equity to debt (99% → 70% equity)",85%,54,moderate,Aggressive Investor,99.05,1032729,6,4,2,0,4,4
+133,REBALANCE,"Move INR 84,395 from equity to debt (83% → 70% equity)",67%,39,low,Aggressive Investor,82.97,649199,5,6,2,0,3,4
+134,HOLD,Hold current positions — no changes needed,75%,48,moderate,Goal Chaser,73.01,585381,2,3,1,0,3,4
+135,EMERGENCY_FUND_BUILD,"Save INR 3,000/mo toward emergency fund (INR 61,640 gap, ~20 months)",65%,63,high,Debt-Heavy Struggler,76.45,424532,1,4,1,0,4,4
+136,SWITCH_TO_DEBT,"Shift INR 121,051 from equity to debt funds (78% → 48.1% equity)",82%,64,high,Goal Chaser,78.1,516642,4,2,2,0,4,4
+137,EMERGENCY_FUND_BUILD,"Save INR 16,000/mo toward emergency fund (INR 260,772 gap, ~16 months)",65%,60,moderate,High-Risk Beginner,68.42,436531,1,2,2,0,2,4
+138,EMERGENCY_FUND_BUILD,"Save INR 2,000/mo toward emergency fund (INR 220,512 gap, ~110 months)",78%,65,high,Debt-Heavy Struggler,55.63,204078,1,0,1,0,4,4
+139,REBALANCE,"Move INR 132,644 from equity to debt (88% → 70% equity)",70%,50,moderate,Aggressive Investor,88.08,732843,4,0,3,0,4,4
+140,SELL,"Sell INR 112,978 of equity holdings (30% of equity)",88%,52,moderate,Goal Chaser,86.39,435915,4,2,2,0,3,4
+141,REBALANCE,"Move INR 242,648 from equity to debt (88% → 70% equity)",70%,42,low,Young Accumulator,88.03,1348049,8,2,1,0,4,4
+142,CONTINUE_SIP,"Continue SIP at INR 2,367/mo — on track (10.4% of salary)",85%,46,moderate,Young Accumulator,74.5,544820,2,2,2,0,4,4
+143,EMERGENCY_FUND_BUILD,"Save INR 2,000/mo toward emergency fund (INR 146,744 gap, ~73 months)",78%,78,very_high,Debt-Heavy Struggler,80.3,693637,3,6,1,0,2,4
+144,START_SIP,"Start SIP at INR 5,455/mo (7.0% of salary)",81%,47,moderate,Passive Holder,74.76,131113,1,2,0,0,3,3
+145,CONTINUE_SIP,"Continue SIP at INR 14,666/mo — on track (29.9% of salary)",75%,38,low,Aggressive Investor,52.76,123555,0,3,0,0,2,3
+146,START_SIP,"Start SIP at INR 6,354/mo (11.3% of salary)",97%,42,low,Young Accumulator,79.92,1195502,8,6,4,0,1,3
+147,REBALANCE,"Move INR 119,064 from equity to debt (81% → 65% equity)",68%,40,low,Balanced Planner,81.12,739530,3,5,1,0,2,4
+148,EMERGENCY_FUND_BUILD,"Save INR 9,000/mo toward emergency fund (INR 185,340 gap, ~20 months)",72%,59,moderate,Aggressive Investor,100.0,442688,3,4,1,0,4,4
+149,START_SIP,"Start SIP at INR 5,527/mo (9.0% of salary)",75%,45,low,Young Accumulator,0.0,175469,0,0,0,0,5,3
+150,REBALANCE,"Move INR 216,905 from equity to debt (100% → 65% equity)",93%,57,moderate,Aggressive Investor,100.0,619731,6,0,4,0,5,4
+151,EMERGENCY_FUND_BUILD,"Save INR 4,000/mo toward emergency fund (INR 215,995 gap, ~53 months)",72%,65,high,High-Risk Beginner,100.0,337186,2,0,2,0,5,4
+152,REBALANCE,"Move INR 215,893 from equity to debt (91% → 65% equity)",93%,58,moderate,Young Accumulator,90.87,833564,5,6,2,0,2,4
+153,SELL,"Sell INR 355,484 of equity holdings (30% of equity)",88%,56,moderate,Goal Chaser,92.89,1275618,7,5,0,0,1,2
+154,DIVERSIFY_PORTFOLIO,"Add 1 stocks + 2 mutual funds, invest INR 5,000/mo across new instruments",83%,63,high,Passive Holder,63.29,351839,2,0,2,0,4,4
+155,EMERGENCY_FUND_BUILD,"Save INR 7,500/mo toward emergency fund (INR 247,050 gap, ~32 months)",77%,45,low,Aggressive Investor,87.76,315109,3,3,0,0,2,3
+156,REBALANCE,"Move INR 153,871 from equity to debt (100% → 65% equity)",93%,62,high,Balanced Planner,100.0,439633,5,1,2,0,4,4
+157,REBALANCE,"Move INR 89,610 from equity to debt (83% → 70% equity)",60%,40,low,Aggressive Investor,83.21,678864,5,4,1,0,4,4
+158,REBALANCE,"Move INR 129,023 from equity to debt (86% → 65% equity)",78%,44,low,Balanced Planner,86.16,608601,3,3,2,0,3,4
+159,START_SIP,"Start SIP at INR 7,000/mo (11.3% of salary)",78%,40,low,Aggressive Investor,78.45,1122927,6,6,0,0,2,3
+160,REDUCE_SIP,"Reduce SIP by INR 6,000/mo (INR 15,391 → INR 9,391)",67%,49,moderate,Aggressive Investor,62.66,810846,5,4,1,0,3,4
+161,EMERGENCY_FUND_BUILD,"Save INR 4,500/mo toward emergency fund (INR 323,135 gap, ~71 months)",77%,74,high,High-Risk Beginner,90.3,562982,3,3,2,0,4,4
+162,REBALANCE,"Move INR 226,760 from equity to debt (85% → 70% equity)",70%,45,low,Aggressive Investor,85.22,1491846,8,6,1,0,3,3
+163,REBALANCE,"Move INR 196,103 from equity to debt (83% → 60% equity)",75%,33,low,Conservative Saver,82.98,852625,2,5,2,0,2,4
+164,INCREASE_SIP,"Increase SIP by INR 6,000/mo (INR 2,238 → INR 8,238)",87%,34,low,Young Accumulator,28.15,151214,0,1,0,0,4,3
+165,INCREASE_SIP,"Increase SIP by INR 1,000/mo (INR 13,243 → INR 14,243)",88%,27,low,Aggressive Investor,68.47,703562,3,4,0,0,2,3
+166,REBALANCE,"Move INR 65,410 from equity to debt (85% → 70% equity)",60%,34,low,Aggressive Investor,84.94,438995,2,5,1,0,3,4
+167,REBALANCE,"Move INR 190,525 from equity to debt (81% → 65% equity)",68%,59,moderate,Debt-Heavy Struggler,81.22,1176081,7,6,2,0,2,4
+168,EMERGENCY_FUND_BUILD,"Save INR 6,000/mo toward emergency fund (INR 102,432 gap, ~17 months)",73%,59,moderate,Aggressive Investor,97.98,869055,6,6,1,0,3,3
+169,REBALANCE,"Move INR 95,945 from equity to debt (88% → 70% equity)",70%,50,moderate,Aggressive Investor,87.97,533028,6,5,1,0,2,4
+170,SELL,"Sell INR 61,327 of equity holdings (30% of equity)",95%,53,moderate,Goal Chaser,72.46,282136,0,5,1,0,2,4
+171,REBALANCE,"Move INR 217,226 from equity to debt (94% → 70% equity)",85%,51,moderate,Aggressive Investor,93.58,920451,8,2,4,0,4,4
+172,SWITCH_TO_DEBT,"Shift INR 39,274 from equity to debt funds (56% → 40.0% equity)",78%,44,low,Goal Chaser,56.14,433522,0,6,0,0,2,3
+173,REBALANCE,"Move INR 133,615 from equity to debt (83% → 65% equity)",68%,55,moderate,Aggressive Investor,82.59,759178,5,3,1,0,5,4
+174,REBALANCE,"Move INR 69,471 from equity to debt (86% → 70% equity)",77%,76,very_high,Debt-Heavy Struggler,85.88,436929,3,2,3,0,5,4
+175,REBALANCE,"Move INR 181,067 from equity to debt (93% → 70% equity)",85%,56,moderate,Aggressive Investor,93.07,783841,6,1,5,0,3,4
+176,REBALANCE,"Move INR 301,548 from equity to debt (100% → 60% equity)",93%,40,low,Aggressive Investor,100.0,753872,7,1,3,0,5,4
+177,REBALANCE,"Move INR 241,127 from equity to debt (100% → 65% equity)",93%,41,low,Balanced Planner,100.0,688937,6,2,3,0,4,4
+178,EMERGENCY_FUND_BUILD,"Save INR 1,500/mo toward emergency fund (INR 78,696 gap, ~52 months)",60%,50,moderate,Balanced Planner,78.18,962032,6,6,0,0,2,3
+179,START_SIP,"Start SIP at INR 10,500/mo (14.4% of salary)",93%,24,very_low,Aggressive Investor,44.36,289846,1,1,1,0,4,4
+180,REBALANCE,"Move INR 100,018 from equity to debt (82% → 70% equity)",67%,55,moderate,Aggressive Investor,82.15,819826,6,3,3,0,4,4
+181,START_SIP,"Start SIP at INR 3,500/mo (9.4% of salary)",87%,37,low,Conservative Saver,27.35,446787,0,5,0,0,4,3
+182,EMERGENCY_FUND_BUILD,"Save INR 1,500/mo toward emergency fund (INR 106,572 gap, ~71 months)",68%,45,low,Aggressive Investor,87.05,1142643,8,0,3,0,4,4
+183,START_SIP,"Start SIP at INR 9,000/mo (9.7% of salary)",79%,32,low,Aggressive Investor,66.25,1045492,5,6,2,0,2,4
+184,REBALANCE,"Move INR 237,177 from equity to debt (86% → 60% equity)",78%,58,moderate,Conservative Saver,86.39,898399,6,4,0,0,3,3
+185,REBALANCE,"Move INR 41,356 from equity to debt (81% → 65% equity)",75%,61,high,Goal Chaser,81.01,258477,0,5,0,0,3,3
+186,CONTINUE_SIP,"Continue SIP at INR 18,805/mo — on track (18.9% of salary)",97%,54,moderate,Balanced Planner,39.32,399239,1,4,1,0,3,4
+187,REBALANCE,"Move INR 135,222 from equity to debt (92% → 70% equity)",85%,45,low,Aggressive Investor,92.36,603674,3,5,3,0,1,3
+188,REBALANCE,"Move INR 72,830 from equity to debt (91% → 70% equity)",85%,51,moderate,Aggressive Investor,91.34,341928,3,1,2,0,5,4
+189,REBALANCE,"Move INR 151,338 from equity to debt (84% → 65% equity)",68%,53,moderate,Balanced Planner,84.08,792348,5,4,3,0,2,4
+190,CONTINUE_SIP,"Continue SIP at INR 12,933/mo — on track (16.2% of salary)",92%,38,low,Balanced Planner,52.34,283940,1,2,1,0,2,4
+191,REBALANCE,"Move INR 163,116 from equity to debt (82% → 65% equity)",68%,46,moderate,Young Accumulator,81.6,982628,6,2,3,0,4,4
+192,INCREASE_SIP,"Increase SIP by INR 3,500/mo (INR 13,554 → INR 17,054)",80%,44,low,Balanced Planner,70.42,395967,1,5,1,0,1,3
+193,SELL,"Sell INR 270,423 of equity holdings (30% of equity)",88%,53,moderate,Goal Chaser,88.47,1018875,8,1,5,0,3,4
+194,REBALANCE,"Move INR 90,779 from equity to debt (82% → 65% equity)",75%,58,moderate,Passive Holder,81.9,537157,4,3,1,0,4,4
+195,EMERGENCY_FUND_BUILD,"Save INR 2,500/mo toward emergency fund (INR 170,220 gap, ~68 months)",93%,84,very_high,Goal Chaser,77.37,580203,4,4,1,0,4,4
+196,REBALANCE,"Move INR 125,041 from equity to debt (81% → 70% equity)",60%,32,low,Aggressive Investor,81.35,1096856,7,5,3,0,1,3
+197,HOLD,Hold current positions — no changes needed,75%,41,low,Young Accumulator,64.79,929818,3,3,3,0,3,4
+198,REBALANCE,"Move INR 109,896 from equity to debt (95% → 70% equity)",85%,50,moderate,Aggressive Investor,94.56,446734,2,2,2,0,4,4
+199,EMERGENCY_FUND_BUILD,"Save INR 6,000/mo toward emergency fund (INR 192,642 gap, ~32 months)",80%,56,moderate,Goal Chaser,64.39,481047,4,1,2,0,4,4
+200,REBALANCE,"Move INR 89,444 from equity to debt (88% → 60% equity)",78%,43,low,Passive Holder,87.55,325254,2,1,1,0,4,4
+201,REBALANCE,"Move INR 190,748 from equity to debt (100% → 70% equity)",85%,49,moderate,Aggressive Investor,100.0,635829,5,1,3,0,4,4
+202,EMERGENCY_FUND_BUILD,"Save INR 2,500/mo toward emergency fund (INR 257,070 gap, ~102 months)",88%,69,high,Debt-Heavy Struggler,49.22,137398,1,3,0,0,4,3
+203,EMERGENCY_FUND_BUILD,"Save INR 3,500/mo toward emergency fund (INR 465,210 gap, ~132 months)",80%,56,moderate,Aggressive Investor,86.62,1100947,8,6,4,0,3,3
+204,INCREASE_SIP,"Increase SIP by INR 1,000/mo (INR 15,225 → INR 16,225)",94%,31,low,Aggressive Investor,70.86,1142875,4,6,0,0,1,2
+205,REBALANCE,"Move INR 352,845 from equity to debt (100% → 70% equity)",92%,46,moderate,Aggressive Investor,100.0,1176151,8,5,3,0,2,4
+206,REBALANCE,"Move INR 86,892 from equity to debt (83% → 70% equity)",60%,47,moderate,Aggressive Investor,82.77,678851,5,6,1,0,3,4
+207,EMERGENCY_FUND_BUILD,"Save INR 2,000/mo toward emergency fund (INR 115,750 gap, ~57 months)",85%,54,moderate,Aggressive Investor,77.63,1313712,7,5,1,0,2,3
+208,INCREASE_SIP,"Increase SIP by INR 1,500/mo (INR 10,390 → INR 11,890)",72%,52,moderate,Conservative Saver,35.14,131688,0,2,0,0,4,3
+209,EMERGENCY_FUND_BUILD,"Save INR 7,000/mo toward emergency fund (INR 291,324 gap, ~41 months)",80%,53,moderate,High-Risk Beginner,86.04,665330,4,2,3,0,5,4
+210,HOLD,Hold current positions — no changes needed,75%,44,low,High-Risk Beginner,59.98,429822,1,6,1,0,3,4
+211,HOLD,Hold current positions — no changes needed,75%,53,moderate,Balanced Planner,37.43,375284,0,5,0,0,2,3
+212,REBALANCE,"Move INR 141,523 from equity to debt (92% → 65% equity)",93%,41,low,Balanced Planner,92.3,518400,2,3,2,0,4,4
+213,REBALANCE,"Move INR 111,475 from equity to debt (84% → 70% equity)",60%,35,low,Young Accumulator,84.06,790604,5,1,3,0,4,4
+214,REBALANCE,"Move INR 22,422 from equity to debt (100% → 70% equity)",85%,37,low,High-Risk Beginner,100.0,74740,0,2,0,0,4,3
+215,REBALANCE,"Move INR 171,169 from equity to debt (90% → 70% equity)",70%,46,moderate,Young Accumulator,89.53,877792,8,3,2,0,4,4
+216,EMERGENCY_FUND_BUILD,"Save INR 4,500/mo toward emergency fund (INR 174,432 gap, ~38 months)",73%,76,very_high,Goal Chaser,86.33,971321,7,6,5,0,2,4
+217,EMERGENCY_FUND_BUILD,"Save INR 2,000/mo toward emergency fund (INR 68,946 gap, ~34 months)",68%,51,moderate,Passive Holder,66.83,500534,2,0,2,0,4,4
+218,INCREASE_SIP,"Increase SIP by INR 7,000/mo (INR 5,025 → INR 12,025)",92%,33,low,Aggressive Investor,73.51,615578,4,5,1,0,3,4
+219,REBALANCE,"Move INR 147,849 from equity to debt (82% → 60% equity)",68%,55,moderate,High-Risk Beginner,81.9,675110,3,4,1,0,4,4
+220,EMERGENCY_FUND_BUILD,"Save INR 16,500/mo toward emergency fund (INR 308,160 gap, ~18 months)",80%,63,high,Goal Chaser,88.74,882416,6,1,2,0,3,4
+221,INCREASE_SIP,"Increase SIP by INR 1,000/mo (INR 17,560 → INR 18,560)",93%,36,low,Aggressive Investor,51.99,440639,1,3,0,0,3,3
+222,EMERGENCY_FUND_BUILD,"Save INR 8,500/mo toward emergency fund (INR 242,148 gap, ~28 months)",85%,66,high,Goal Chaser,100.0,720041,7,0,2,0,5,3
+223,CONTINUE_SIP,"Continue SIP at INR 3,488/mo — on track (4.4% of salary)",73%,47,moderate,Balanced Planner,51.83,634657,1,5,0,0,2,3
+224,EMERGENCY_FUND_BUILD,"Save INR 3,000/mo toward emergency fund (INR 194,160 gap, ~64 months)",80%,58,moderate,Aggressive Investor,94.07,1087209,7,2,4,0,4,4
+225,EMERGENCY_FUND_BUILD,"Save INR 15,000/mo toward emergency fund (INR 128,403 gap, ~8 months)",73%,68,high,High-Risk Beginner,81.18,1344314,8,6,2,0,2,4
+226,START_SIP,"Start SIP at INR 9,500/mo (9.9% of salary)",87%,31,low,Young Accumulator,60.93,647615,1,6,0,0,1,2
+227,REBALANCE,"Move INR 133,113 from equity to debt (84% → 70% equity)",60%,53,moderate,Aggressive Investor,84.44,924400,4,4,1,0,3,4
+228,EMERGENCY_FUND_BUILD,"Save INR 3,000/mo toward emergency fund (INR 159,978 gap, ~53 months)",88%,60,moderate,Aggressive Investor,79.66,764021,3,5,0,0,3,3
+229,INCREASE_SIP,"Increase SIP by INR 1,000/mo (INR 16,277 → INR 17,277)",97%,33,low,Aggressive Investor,79.63,620460,2,5,1,0,0,2
+230,CONTINUE_SIP,"Continue SIP at INR 5,375/mo — on track (22.3% of salary)",90%,56,moderate,High-Risk Beginner,79.11,465775,1,6,0,0,3,3
+231,HOLD,Hold current positions — no changes needed,75%,39,low,Aggressive Investor,79.69,1038286,7,5,2,0,2,4
+232,REBALANCE,"Move INR 85,589 from equity to debt (93% → 60% equity)",97%,52,moderate,Passive Holder,92.92,260151,1,2,1,0,3,4
+233,EMERGENCY_FUND_BUILD,"Save INR 4,500/mo toward emergency fund (INR 109,196 gap, ~24 months)",65%,65,high,Aggressive Investor,100.0,295105,3,1,3,0,4,4
+234,EMERGENCY_FUND_BUILD,"Save INR 23,000/mo toward emergency fund (INR 177,155 gap, ~7 months)",80%,64,high,Goal Chaser,77.14,1161013,7,4,3,0,3,3
+235,REBALANCE,"Move INR 328,401 from equity to debt (94% → 65% equity)",93%,38,low,Young Accumulator,94.35,1120825,7,6,3,0,3,4
+236,REBALANCE,"Move INR 179,783 from equity to debt (88% → 70% equity)",70%,51,moderate,Young Accumulator,87.82,1010021,8,5,2,0,3,4
+237,START_SIP,"Start SIP at INR 5,500/mo (14.4% of salary)",97%,28,low,Young Accumulator,78.59,1063285,6,4,2,0,2,4
+238,START_SIP,"Start SIP at INR 3,000/mo (8.7% of salary)",75%,38,low,Young Accumulator,67.94,880172,6,3,4,0,2,4
+239,SWITCH_TO_DEBT,"Shift INR 108,052 from equity to debt funds (69% → 40.0% equity)",83%,64,high,Goal Chaser,68.82,544859,2,3,0,0,4,3
+240,REBALANCE,"Move INR 471,266 from equity to debt (99% → 60% equity)",93%,33,low,Conservative Saver,99.01,1208376,7,5,2,0,4,4
+241,REBALANCE,"Move INR 140,233 from equity to debt (89% → 70% equity)",70%,42,low,Aggressive Investor,89.09,734207,4,2,2,0,4,4
+242,CONTINUE_SIP,"Continue SIP at INR 4,641/mo — on track (17.3% of salary)",90%,59,moderate,Balanced Planner,55.75,550179,1,6,0,0,1,2
+243,EMERGENCY_FUND_BUILD,"Save INR 8,500/mo toward emergency fund (INR 165,345 gap, ~19 months)",77%,58,moderate,Aggressive Investor,76.23,1013861,7,6,3,0,2,4
+244,EMERGENCY_FUND_BUILD,"Save INR 7,000/mo toward emergency fund (INR 310,752 gap, ~44 months)",88%,56,moderate,Aggressive Investor,98.19,1129815,6,4,0,0,2,3
+245,REBALANCE,"Move INR 263,858 from equity to debt (100% → 60% equity)",93%,54,moderate,Passive Holder,100.0,659646,4,1,3,0,5,4
+246,HOLD,Hold current positions — no changes needed,70%,41,low,Debt-Heavy Struggler,57.96,340418,2,2,1,0,4,4
+247,EMERGENCY_FUND_BUILD,"Save INR 13,500/mo toward emergency fund (INR 173,280 gap, ~12 months)",88%,70,high,Goal Chaser,100.0,391842,2,3,2,0,4,4
+248,INCREASE_SIP,"Increase SIP by INR 4,500/mo (INR 2,889 → INR 7,389)",88%,20,very_low,Balanced Planner,35.19,318271,1,4,1,0,4,4
+249,SELL,"Sell INR 119,433 of equity holdings (30% of equity)",95%,53,moderate,Goal Chaser,67.7,588033,3,0,2,0,4,4
+250,REBALANCE,"Move INR 138,765 from equity to debt (82% → 65% equity)",68%,36,low,Balanced Planner,82.12,811495,8,0,4,0,4,3
+251,INCREASE_SIP,"Increase SIP by INR 1,000/mo (INR 13,787 → INR 14,787)",87%,30,low,Balanced Planner,55.28,409929,1,1,1,0,3,4
+252,CONTINUE_SIP,"Continue SIP at INR 1,911/mo — on track (8.5% of salary)",85%,38,low,High-Risk Beginner,75.08,109841,0,2,0,0,4,3
+253,INCREASE_SIP,"Increase SIP by INR 3,000/mo (INR 1,016 → INR 4,016)",75%,34,low,Aggressive Investor,75.23,471763,3,3,1,0,3,4
+254,REBALANCE,"Move INR 124,407 from equity to debt (98% → 65% equity)",93%,46,moderate,Aggressive Investor,98.4,372478,3,4,2,0,4,4
+255,EMERGENCY_FUND_BUILD,"Save INR 10,000/mo toward emergency fund (INR 308,908 gap, ~30 months)",68%,56,moderate,Aggressive Investor,81.97,1168922,8,3,3,0,2,4
+256,DIVERSIFY_PORTFOLIO,"Add 2 stocks + 3 mutual funds, invest INR 1,000/mo across new instruments",75%,44,low,Conservative Saver,0.0,99922,0,0,0,0,5,3
+257,SELL,"Sell INR 265,521 of equity holdings (40% of equity)",97%,56,moderate,Goal Chaser,100.0,663803,8,0,3,0,5,4
+258,START_SIP,"Start SIP at INR 4,500/mo (9.7% of salary)",75%,33,low,Young Accumulator,41.62,345213,2,1,1,0,4,4
+259,EMERGENCY_FUND_BUILD,"Save INR 1,000/mo toward emergency fund (INR 54,325 gap, ~54 months)",77%,65,high,Young Accumulator,82.3,794651,6,1,2,0,4,4
+260,REBALANCE,"Move INR 35,181 from equity to debt (85% → 60% equity)",68%,48,moderate,Young Accumulator,84.94,141290,0,3,0,0,4,3
+261,REBALANCE,"Move INR 230,966 from equity to debt (97% → 70% equity)",85%,33,low,Aggressive Investor,97.26,846031,6,1,4,0,3,4
+262,REBALANCE,"Move INR 243,889 from equity to debt (98% → 65% equity)",93%,48,moderate,Balanced Planner,97.54,750429,5,4,2,0,3,4
+263,REBALANCE,"Move INR 83,781 from equity to debt (83% → 70% equity)",60%,38,low,Aggressive Investor,82.9,649468,3,1,3,0,4,4
+264,SELL,"Sell INR 300,510 of equity holdings (40% of equity)",97%,50,moderate,Goal Chaser,86.47,868832,8,5,0,0,2,2
+265,REBALANCE,"Move INR 156,226 from equity to debt (87% → 70% equity)",70%,33,low,Aggressive Investor,86.74,935490,5,3,1,0,3,4
+266,HOLD,Hold current positions — no changes needed,63%,64,high,Passive Holder,67.72,194528,2,1,3,0,5,4
+267,EMERGENCY_FUND_BUILD,"Save INR 7,000/mo toward emergency fund (INR 240,114 gap, ~34 months)",93%,70,high,Goal Chaser,63.56,373222,2,2,2,0,4,4
+268,REBALANCE,"Move INR 232,511 from equity to debt (100% → 70% equity)",85%,51,moderate,Aggressive Investor,100.0,775039,7,2,4,0,4,4
+269,EMERGENCY_FUND_BUILD,"Save INR 4,000/mo toward emergency fund (INR 146,766 gap, ~36 months)",80%,56,moderate,Young Accumulator,63.69,463817,1,4,1,0,3,4
+270,EMERGENCY_FUND_BUILD,"Save INR 6,500/mo toward emergency fund (INR 220,035 gap, ~33 months)",80%,58,moderate,Passive Holder,80.9,920181,6,6,0,0,2,3
+271,REBALANCE,"Move INR 133,461 from equity to debt (81% → 70% equity)",60%,70,high,High-Risk Beginner,81.42,1170719,7,4,3,0,3,4
+272,REBALANCE,"Move INR 221,622 from equity to debt (100% → 60% equity)",93%,33,low,Aggressive Investor,100.0,554055,2,4,2,0,3,4
+273,EMERGENCY_FUND_BUILD,"Save INR 2,500/mo toward emergency fund (INR 307,335 gap, ~122 months)",85%,67,high,Balanced Planner,63.75,387096,2,4,1,0,2,4
+274,REBALANCE,"Move INR 392,821 from equity to debt (92% → 60% equity)",93%,52,moderate,High-Risk Beginner,91.7,1239183,8,6,4,0,3,4
+275,CONTINUE_SIP,"Continue SIP at INR 3,047/mo — on track (5.1% of salary)",83%,37,low,Balanced Planner,48.87,409545,0,6,0,0,2,3
+276,REBALANCE,"Move INR 116,229 from equity to debt (84% → 70% equity)",67%,43,low,High-Risk Beginner,83.81,842242,4,4,0,0,2,3
+277,DIVERSIFY_PORTFOLIO,"Add 1 stocks + 2 mutual funds, invest INR 1,000/mo across new instruments",83%,50,moderate,Aggressive Investor,74.08,254559,1,1,1,0,4,4
+278,REBALANCE,"Move INR 264,760 from equity to debt (93% → 70% equity)",92%,45,low,Goal Chaser,92.77,1161231,8,5,4,0,4,4
+279,REBALANCE,"Move INR 156,639 from equity to debt (84% → 65% equity)",75%,46,moderate,Goal Chaser,84.29,811603,6,3,3,0,4,4
+280,REBALANCE,"Move INR 147,834 from equity to debt (86% → 70% equity)",70%,44,low,Aggressive Investor,85.89,929779,7,4,2,0,4,4
+281,EMERGENCY_FUND_BUILD,"Save INR 1,500/mo toward emergency fund (INR 84,357 gap, ~56 months)",73%,61,high,Aggressive Investor,93.35,1031202,7,4,2,0,2,4
+282,REBALANCE,"Move INR 309,160 from equity to debt (93% → 60% equity)",93%,42,low,Aggressive Investor,93.19,931207,7,4,2,0,2,4
+283,EMERGENCY_FUND_BUILD,"Save INR 4,000/mo toward emergency fund (INR 100,380 gap, ~25 months)",93%,67,high,Balanced Planner,89.47,571815,4,4,2,0,4,4
+284,REBALANCE,"Move INR 223,655 from equity to debt (90% → 65% equity)",93%,60,moderate,Balanced Planner,90.09,891056,5,4,1,0,3,4
+285,REBALANCE,"Move INR 151,050 from equity to debt (98% → 70% equity)",85%,42,low,Aggressive Investor,97.9,541400,3,4,1,0,4,4
+286,START_SIP,"Start SIP at INR 3,500/mo (11.6% of salary)",81%,50,moderate,Young Accumulator,67.51,908517,3,3,0,0,2,3
+287,REBALANCE,"Move INR 261,895 from equity to debt (96% → 65% equity)",93%,30,low,Balanced Planner,95.77,850310,7,1,4,0,3,4
+288,SWITCH_TO_DEBT,"Shift INR 224,047 from equity to debt funds (78% → 48.2% equity)",90%,62,high,Goal Chaser,78.19,955131,7,3,4,0,3,4
+289,EMERGENCY_FUND_BUILD,"Save INR 1,500/mo toward emergency fund (INR 84,155 gap, ~56 months)",77%,54,moderate,High-Risk Beginner,71.88,800452,8,2,1,0,2,4
+290,REBALANCE,"Move INR 188,038 from equity to debt (100% → 60% equity)",93%,45,low,Young Accumulator,100.0,470095,4,0,2,0,5,4
+291,EMERGENCY_FUND_BUILD,"Save INR 5,000/mo toward emergency fund (INR 240,770 gap, ~48 months)",77%,47,moderate,Aggressive Investor,78.45,906453,6,0,2,0,4,4
+292,REBALANCE,"Move INR 180,318 from equity to debt (82% → 60% equity)",68%,41,low,Aggressive Investor,81.93,823374,6,4,3,0,1,3
+293,REBALANCE,"Move INR 310,211 from equity to debt (94% → 60% equity)",93%,60,moderate,Debt-Heavy Struggler,94.36,901778,6,2,0,0,5,3
+294,EMERGENCY_FUND_BUILD,"Save INR 5,000/mo toward emergency fund (INR 150,315 gap, ~30 months)",77%,61,high,High-Risk Beginner,53.14,341711,1,0,1,0,4,4
+295,REDUCE_SIP,"Reduce SIP by INR 8,500/mo (INR 14,001 → INR 5,501)",67%,55,moderate,Balanced Planner,69.69,682975,4,5,2,0,2,4
+296,REBALANCE,"Move INR 36,902 from equity to debt (100% → 60% equity)",93%,48,moderate,Young Accumulator,100.0,92257,1,0,1,0,5,4
+297,INCREASE_SIP,"Increase SIP by INR 5,000/mo (INR 587 → INR 5,587)",75%,38,low,Aggressive Investor,78.16,731848,4,4,3,0,2,4
+298,REBALANCE,"Move INR 154,362 from equity to debt (88% → 60% equity)",78%,60,moderate,Debt-Heavy Struggler,87.71,557265,4,2,2,0,4,4
+299,EMERGENCY_FUND_BUILD,"Save INR 9,500/mo toward emergency fund (INR 312,910 gap, ~32 months)",85%,68,high,Debt-Heavy Struggler,51.62,192457,0,3,0,0,5,3
+300,REBALANCE,"Move INR 474,721 from equity to debt (94% → 60% equity)",93%,58,moderate,Aggressive Investor,94.41,1380004,8,6,3,0,3,3
+301,CONTINUE_SIP,"Continue SIP at INR 2,231/mo — on track (8.7% of salary)",90%,36,low,Balanced Planner,79.09,304494,0,6,1,0,2,4
+302,CONTINUE_SIP,"Continue SIP at INR 2,475/mo — on track (5.2% of salary)",90%,44,low,Balanced Planner,73.45,697584,4,3,1,0,3,4
+303,REBALANCE,"Move INR 267,889 from equity to debt (90% → 60% equity)",78%,38,low,Conservative Saver,89.91,895952,7,5,2,0,3,4
+304,REBALANCE,"Move INR 174,084 from equity to debt (100% → 65% equity)",93%,56,moderate,Debt-Heavy Struggler,100.0,497384,5,2,4,0,5,4
+305,INCREASE_SIP,"Increase SIP by INR 7,500/mo (INR 7,416 → INR 14,916)",97%,32,low,Aggressive Investor,77.39,340857,2,0,2,0,4,4
+306,HOLD,Hold current positions — no changes needed,68%,52,moderate,Aggressive Investor,66.86,408510,4,4,0,0,2,3
+307,REBALANCE,"Move INR 193,257 from equity to debt (100% → 70% equity)",85%,49,moderate,Aggressive Investor,100.0,644192,6,0,2,0,5,4
+308,HOLD,Hold current positions — no changes needed,75%,34,low,Conservative Saver,78.97,1166267,7,5,1,0,1,3
+309,HOLD,Hold current positions — no changes needed,75%,51,moderate,Aggressive Investor,79.8,1109345,5,4,0,0,3,3
+310,EMERGENCY_FUND_BUILD,"Save INR 17,000/mo toward emergency fund (INR 195,423 gap, ~11 months)",68%,56,moderate,Goal Chaser,90.26,643409,5,2,2,0,3,4
+311,REBALANCE,"Move INR 249,732 from equity to debt (93% → 60% equity)",93%,48,moderate,Aggressive Investor,93.29,749948,7,6,3,0,3,4
+312,REBALANCE,"Move INR 314,858 from equity to debt (100% → 65% equity)",93%,45,low,Young Accumulator,99.66,907372,8,1,2,0,5,3
+313,EMERGENCY_FUND_BUILD,"Save INR 5,500/mo toward emergency fund (INR 332,340 gap, ~60 months)",80%,59,moderate,Debt-Heavy Struggler,88.82,1126550,6,6,3,0,1,3
+314,START_SIP,"Start SIP at INR 7,000/mo (9.6% of salary)",87%,35,low,Aggressive Investor,77.25,1391410,5,6,2,0,1,3
+315,REBALANCE,"Move INR 168,212 from equity to debt (85% → 65% equity)",78%,40,low,Balanced Planner,85.25,832736,5,2,2,0,4,4
+316,EMERGENCY_FUND_BUILD,"Save INR 2,500/mo toward emergency fund (INR 133,764 gap, ~53 months)",73%,52,moderate,Aggressive Investor,70.84,529632,5,4,3,0,3,4
+317,REBALANCE,"Move INR 226,345 from equity to debt (83% → 65% equity)",68%,38,low,Aggressive Investor,83.15,1243656,7,5,2,0,2,4
+318,CONTINUE_SIP,"Continue SIP at INR 2,828/mo — on track (7.1% of salary)",97%,55,moderate,Balanced Planner,78.7,673402,6,0,4,0,4,4
+319,REBALANCE,"Move INR 213,216 from equity to debt (88% → 70% equity)",70%,45,low,Young Accumulator,88.06,1177993,7,5,3,0,2,4
+320,EMERGENCY_FUND_BUILD,"Save INR 2,500/mo toward emergency fund (INR 153,645 gap, ~61 months)",73%,48,moderate,Aggressive Investor,98.84,705578,8,1,2,0,4,3
+321,REBALANCE,"Move INR 49,203 from equity to debt (85% → 65% equity)",68%,59,moderate,High-Risk Beginner,84.9,247255,2,1,2,0,3,4
+322,REBALANCE,"Move INR 350,160 from equity to debt (99% → 60% equity)",93%,63,high,Conservative Saver,99.17,893266,6,6,2,0,2,4
+323,REBALANCE,"Move INR 211,519 from equity to debt (95% → 70% equity)",85%,36,low,Aggressive Investor,94.95,849475,6,3,2,0,3,4
+324,SELL,"Sell INR 257,916 of equity holdings (30% of equity)",95%,71,high,Goal Chaser,83.42,1030564,5,6,0,0,3,3
+325,START_SIP,"Start SIP at INR 6,500/mo (12.0% of salary)",93%,38,low,Young Accumulator,56.7,656673,3,3,2,0,3,4
+326,START_SIP,"Start SIP at INR 4,500/mo (14.7% of salary)",88%,43,low,High-Risk Beginner,55.66,301096,1,2,1,0,4,4
+327,SELL,"Sell INR 156,005 of equity holdings (30% of equity)",95%,52,moderate,Goal Chaser,73.08,711540,3,1,2,0,4,4
+328,REBALANCE,"Move INR 168,238 from equity to debt (88% → 60% equity)",78%,46,moderate,Aggressive Investor,87.68,607359,2,5,2,0,2,4
+329,SELL,"Sell INR 199,151 of equity holdings (30% of equity)",95%,42,low,Goal Chaser,75.25,882140,6,6,2,0,3,4
+330,REBALANCE,"Move INR 230,847 from equity to debt (93% → 65% equity)",93%,34,low,Balanced Planner,92.8,830388,6,6,1,0,2,4
+331,DIVERSIFY_PORTFOLIO,"Add 1 stocks + 2 mutual funds, invest INR 500/mo across new instruments",88%,55,moderate,Passive Holder,44.9,236328,0,2,0,0,3,3
+332,EMERGENCY_FUND_BUILD,"Save INR 6,000/mo toward emergency fund (INR 339,642 gap, ~56 months)",88%,63,high,Aggressive Investor,95.17,640920,6,4,1,0,4,4
+333,CONTINUE_SIP,"Continue SIP at INR 13,558/mo — on track (25.3% of salary)",82%,38,low,Passive Holder,0.0,81614,0,0,0,0,5,3
+334,REBALANCE,"Move INR 178,331 from equity to debt (88% → 65% equity)",78%,37,low,Aggressive Investor,87.89,778740,4,4,3,0,1,3
+335,START_SIP,"Start SIP at INR 6,500/mo (14.5% of salary)",85%,48,moderate,Aggressive Investor,79.97,664522,4,3,3,0,4,4
+336,EMERGENCY_FUND_BUILD,"Save INR 7,500/mo toward emergency fund (INR 158,970 gap, ~21 months)",72%,65,high,Goal Chaser,91.14,420153,4,3,0,0,3,3
+337,EMERGENCY_FUND_BUILD,"Save INR 4,000/mo toward emergency fund (INR 209,874 gap, ~52 months)",85%,84,very_high,Goal Chaser,78.47,344086,1,2,1,0,4,4
+338,SWITCH_TO_DEBT,"Shift INR 181,444 from equity to debt funds (75% → 44.9% equity)",90%,63,high,Goal Chaser,74.88,807687,5,4,0,0,3,3
+339,HOLD,Hold current positions — no changes needed,63%,53,moderate,Aggressive Investor,79.26,511575,2,2,2,0,4,4
+340,START_SIP,"Start SIP at INR 4,500/mo (9.7% of salary)",87%,54,moderate,Young Accumulator,77.19,560961,2,6,0,0,2,3
+341,REBALANCE,"Move INR 163,110 from equity to debt (98% → 65% equity)",93%,39,low,Young Accumulator,97.56,500340,3,2,3,0,5,4
+342,REBALANCE,"Move INR 139,092 from equity to debt (82% → 65% equity)",75%,57,moderate,Goal Chaser,81.64,837905,4,2,2,0,3,4
+343,CONTINUE_SIP,"Continue SIP at INR 4,386/mo — on track (20.3% of salary)",89%,36,low,Young Accumulator,59.48,553532,3,4,0,0,3,3
+344,REBALANCE,"Move INR 229,452 from equity to debt (95% → 70% equity)",85%,50,moderate,Aggressive Investor,94.97,917808,8,2,2,0,4,4
+345,EMERGENCY_FUND_BUILD,"Save INR 6,500/mo toward emergency fund (INR 472,974 gap, ~72 months)",88%,78,very_high,Goal Chaser,87.56,473189,4,1,3,0,4,4
+346,REBALANCE,"Move INR 132,644 from equity to debt (86% → 60% equity)",85%,64,high,Goal Chaser,86.06,508217,3,1,2,0,4,4
+347,EMERGENCY_FUND_BUILD,"Save INR 10,000/mo toward emergency fund (INR 300,525 gap, ~30 months)",77%,57,moderate,Debt-Heavy Struggler,77.5,993397,5,4,2,0,3,4
+348,REBALANCE,"Move INR 42,569 from equity to debt (80% → 70% equity)",60%,59,moderate,High-Risk Beginner,80.35,413298,1,5,1,0,2,4
+349,REBALANCE,"Move INR 245,283 from equity to debt (85% → 60% equity)",68%,41,low,Debt-Heavy Struggler,84.81,989047,6,2,4,0,3,4
+350,EMERGENCY_FUND_BUILD,"Save INR 1,000/mo toward emergency fund (INR 198,840 gap, ~198 months)",82%,66,high,Debt-Heavy Struggler,100.0,165753,2,0,2,0,5,4
+351,CONTINUE_SIP,"Continue SIP at INR 17,633/mo — on track (26.3% of salary)",75%,33,low,Aggressive Investor,51.28,190564,1,3,0,0,4,3
+352,SELL,"Sell INR 171,474 of equity holdings (40% of equity)",97%,56,moderate,Goal Chaser,82.29,520928,2,5,2,0,3,4
+353,REBALANCE,"Move INR 164,677 from equity to debt (90% → 65% equity)",93%,57,moderate,Balanced Planner,90.34,650901,3,3,2,0,3,4
+354,SWITCH_TO_DEBT,"Shift INR 76,625 from equity to debt funds (68% → 40.0% equity)",70%,41,low,Goal Chaser,67.83,405954,2,2,2,0,3,4
+355,REBALANCE,"Move INR 39,973 from equity to debt (96% → 70% equity)",85%,51,moderate,Aggressive Investor,96.44,151413,0,4,0,0,4,3
+356,REBALANCE,"Move INR 298,405 from equity to debt (90% → 65% equity)",78%,45,low,Balanced Planner,89.94,1198416,7,5,2,0,2,3
+357,EMERGENCY_FUND_BUILD,"Save INR 3,000/mo toward emergency fund (INR 137,810 gap, ~45 months)",77%,61,high,Aggressive Investor,95.77,360448,2,1,2,0,4,4
+358,EMERGENCY_FUND_BUILD,"Save INR 6,000/mo toward emergency fund (INR 129,774 gap, ~21 months)",68%,55,moderate,Balanced Planner,73.97,703273,4,4,2,0,3,4
+359,HOLD,Hold current positions — no changes needed,75%,59,moderate,High-Risk Beginner,72.86,824809,7,2,3,0,4,4
+360,HOLD,Hold current positions — no changes needed,75%,36,low,Conservative Saver,72.62,1026782,4,6,2,0,5,4
+361,REBALANCE,"Move INR 156,506 from equity to debt (96% → 65% equity)",97%,41,low,Goal Chaser,96.07,503236,1,6,1,0,3,4
+362,REBALANCE,"Move INR 120,382 from equity to debt (89% → 70% equity)",70%,47,moderate,Aggressive Investor,89.38,620527,5,6,3,0,3,4
+363,REBALANCE,"Move INR 130,176 from equity to debt (84% → 60% equity)",68%,62,high,High-Risk Beginner,83.83,546961,3,0,3,0,5,4
+364,SWITCH_TO_DEBT,"Shift INR 29,360 from equity to debt funds (53% → 40.0% equity)",73%,59,moderate,Balanced Planner,52.75,436721,3,3,1,0,3,4
+365,REBALANCE,"Move INR 214,696 from equity to debt (94% → 70% equity)",85%,56,moderate,Aggressive Investor,94.1,890857,6,4,5,0,4,4
+366,START_SIP,"Start SIP at INR 12,000/mo (14.6% of salary)",85%,42,low,High-Risk Beginner,63.48,421078,0,5,0,0,2,3
+367,INCREASE_SIP,"Increase SIP by INR 1,000/mo (INR 23,828 → INR 24,828)",97%,24,very_low,Aggressive Investor,74.99,412716,2,6,2,0,3,4
+368,HOLD,Hold current positions — no changes needed,68%,53,moderate,High-Risk Beginner,72.9,820665,3,5,1,0,2,4
+369,EMERGENCY_FUND_BUILD,"Save INR 6,000/mo toward emergency fund (INR 315,065 gap, ~52 months)",72%,46,moderate,Aggressive Investor,87.16,934977,5,5,2,0,3,4
+370,SWITCH_TO_DEBT,"Shift INR 151,415 from equity to debt funds (67% → 40.0% equity)",73%,51,moderate,Conservative Saver,66.95,838999,2,6,1,0,3,4
+371,INCREASE_SIP,"Increase SIP by INR 1,000/mo (INR 11,416 → INR 12,416)",87%,37,low,Aggressive Investor,73.73,738174,2,6,2,0,2,4
+372,START_SIP,"Start SIP at INR 9,000/mo (11.9% of salary)",85%,45,low,Young Accumulator,78.38,788100,3,5,3,0,3,4
+373,HOLD,Hold current positions — no changes needed,70%,42,low,Goal Chaser,39.27,403166,1,2,0,0,3,3
+374,REDUCE_SIP,"Reduce SIP by INR 5,500/mo (INR 11,195 → INR 5,695)",75%,69,high,Goal Chaser,75.23,597941,6,6,2,0,2,4
+375,EMERGENCY_FUND_BUILD,"Save INR 3,000/mo toward emergency fund (INR 156,876 gap, ~52 months)",60%,43,low,Aggressive Investor,85.62,1304300,8,1,4,0,4,4
+376,EMERGENCY_FUND_BUILD,"Save INR 1,500/mo toward emergency fund (INR 131,380 gap, ~87 months)",65%,55,moderate,Debt-Heavy Struggler,0.0,0,0,0,0,0,5,3
+377,START_SIP,"Start SIP at INR 8,626/mo (10.0% of salary)",92%,29,low,Passive Holder,44.92,379928,0,4,0,0,3,3
+378,SELL,"Sell INR 208,822 of equity holdings (40% of equity)",93%,70,high,Goal Chaser,83.71,623656,5,2,1,0,4,4
+379,REBALANCE,"Move INR 317,793 from equity to debt (95% → 60% equity)",97%,61,high,Balanced Planner,94.84,913201,8,4,4,0,3,4
+380,REBALANCE,"Move INR 173,944 from equity to debt (84% → 65% equity)",75%,62,high,High-Risk Beginner,83.77,925236,7,0,2,0,4,4
+381,EMERGENCY_FUND_BUILD,"Save INR 5,000/mo toward emergency fund (INR 104,932 gap, ~20 months)",73%,71,high,Aggressive Investor,77.87,620180,4,0,2,0,4,4
+382,CONTINUE_SIP,"Continue SIP at INR 10,515/mo — on track (18.3% of salary)",90%,63,high,High-Risk Beginner,78.66,996075,6,6,1,0,2,4
+383,SELL,"Sell INR 277,657 of equity holdings (30% of equity)",95%,55,moderate,Aggressive Investor,97.22,952006,8,5,2,0,3,3
+384,REBALANCE,"Move INR 371,841 from equity to debt (99% → 60% equity)",97%,50,moderate,Conservative Saver,99.4,943759,8,6,4,0,4,4
+385,REBALANCE,"Move INR 123,314 from equity to debt (90% → 70% equity)",77%,56,moderate,High-Risk Beginner,89.97,616572,5,3,0,0,2,3
+386,EMERGENCY_FUND_BUILD,"Save INR 2,000/mo toward emergency fund (INR 126,516 gap, ~63 months)",93%,74,high,Balanced Planner,88.56,423399,4,0,4,0,4,4
+387,EMERGENCY_FUND_BUILD,"Save INR 4,500/mo toward emergency fund (INR 162,666 gap, ~36 months)",93%,74,high,Debt-Heavy Struggler,98.59,928367,6,4,1,0,4,4
+388,REBALANCE,"Move INR 34,803 from equity to debt (100% → 70% equity)",85%,37,low,Aggressive Investor,100.0,116011,2,1,1,0,5,4
+389,REBALANCE,"Move INR 133,077 from equity to debt (83% → 60% equity)",68%,48,moderate,Conservative Saver,83.4,568708,3,1,3,0,4,4
+390,EMERGENCY_FUND_BUILD,"Save INR 13,500/mo toward emergency fund (INR 219,666 gap, ~16 months)",80%,50,moderate,Balanced Planner,55.83,514877,3,2,1,0,3,4
+391,START_SIP,"Start SIP at INR 5,141/mo (13.9% of salary)",73%,39,low,Aggressive Investor,70.95,435441,3,5,0,0,2,3
+392,REBALANCE,"Move INR 241,906 from equity to debt (84% → 60% equity)",68%,46,moderate,Young Accumulator,83.8,1016412,8,2,5,0,2,4
+393,REBALANCE,"Move INR 338,343 from equity to debt (92% → 60% equity)",97%,54,moderate,Goal Chaser,91.94,1060639,6,4,2,0,2,4
+394,SWITCH_TO_DEBT,"Shift INR 97,112 from equity to debt funds (77% → 46.9% equity)",85%,68,high,Passive Holder,76.86,421174,0,5,1,0,3,4
+395,INCREASE_SIP,"Increase SIP by INR 1,000/mo (INR 21,011 → INR 22,011)",75%,40,low,Balanced Planner,51.84,637114,0,6,0,0,1,2
+396,REBALANCE,"Move INR 45,973 from equity to debt (80% → 65% equity)",75%,50,moderate,Passive Holder,80.39,298529,2,3,1,0,4,4
+397,EMERGENCY_FUND_BUILD,"Save INR 7,500/mo toward emergency fund (INR 363,120 gap, ~48 months)",88%,63,high,Aggressive Investor,80.36,508845,3,0,3,0,5,4
+398,CONTINUE_SIP,Continue SIP at INR 944/mo — on track (1.1% of salary),82%,50,moderate,Conservative Saver,31.48,127314,0,1,0,0,5,3
+399,STOP_SIP,"Stop SIP and free up INR 7,129/mo for essentials",70%,39,low,Debt-Heavy Struggler,80.43,540212,2,3,1,0,2,4
+400,REBALANCE,"Move INR 110,257 from equity to debt (87% → 65% equity)",78%,52,moderate,Young Accumulator,86.61,510451,6,1,0,0,5,2
+401,SWITCH_TO_DEBT,"Shift INR 30,648 from equity to debt funds (54% → 40.0% equity)",83%,46,moderate,Goal Chaser,54.38,391928,2,5,1,0,3,4
+402,START_SIP,"Start SIP at INR 7,500/mo (9.5% of salary)",87%,36,low,Aggressive Investor,61.25,331999,2,0,2,0,4,4
+403,REBALANCE,"Move INR 191,543 from equity to debt (91% → 70% equity)",85%,44,low,Aggressive Investor,90.78,920882,6,4,3,0,3,4
+404,CONTINUE_SIP,"Continue SIP at INR 2,330/mo — on track (3.5% of salary)",75%,44,low,Passive Holder,78.78,253107,2,0,1,0,4,4
+405,HOLD,Hold current positions — no changes needed,70%,58,moderate,Goal Chaser,49.26,203088,2,2,0,0,4,3
+406,REBALANCE,"Move INR 25,315 from equity to debt (100% → 70% equity)",85%,45,low,Aggressive Investor,100.0,84386,1,1,0,0,4,3
+407,REBALANCE,"Move INR 252,583 from equity to debt (89% → 65% equity)",78%,62,high,Debt-Heavy Struggler,89.23,1043733,8,2,5,0,3,4
+408,SWITCH_TO_DEBT,"Shift INR 39,811 from equity to debt funds (64% → 40.0% equity)",83%,41,low,Conservative Saver,64.46,252431,1,2,1,0,4,4
+409,EMERGENCY_FUND_BUILD,"Save INR 3,500/mo toward emergency fund (INR 138,639 gap, ~39 months)",68%,54,moderate,Young Accumulator,0.0,57857,0,0,0,0,5,3
+410,REBALANCE,"Move INR 102,205 from equity to debt (86% → 70% equity)",70%,35,low,Aggressive Investor,86.24,630896,2,5,2,0,3,4
+411,EMERGENCY_FUND_BUILD,"Save INR 3,000/mo toward emergency fund (INR 90,750 gap, ~30 months)",85%,77,very_high,Goal Chaser,91.95,614039,3,1,3,0,5,4
+412,INCREASE_SIP,"Increase SIP by INR 4,000/mo (INR 7,342 → INR 11,342)",87%,20,very_low,Young Accumulator,29.85,182554,1,1,0,0,3,3
+413,REBALANCE,"Move INR 256,361 from equity to debt (84% → 60% equity)",75%,47,moderate,Goal Chaser,84.06,1063739,7,2,2,0,3,4
+414,REBALANCE,"Move INR 243,938 from equity to debt (94% → 70% equity)",85%,30,low,Aggressive Investor,93.62,1033638,8,0,3,0,4,4
+415,REBALANCE,"Move INR 106,424 from equity to debt (86% → 70% equity)",77%,53,moderate,Aggressive Investor,86.2,656940,5,0,1,0,5,4
+416,EMERGENCY_FUND_BUILD,"Save INR 5,000/mo toward emergency fund (INR 212,928 gap, ~42 months)",93%,70,high,Debt-Heavy Struggler,89.58,647423,6,3,3,0,2,4
+417,HOLD,Hold current positions — no changes needed,63%,51,moderate,Passive Holder,67.9,546915,2,1,2,0,3,4
+418,STOP_SIP,"Stop SIP and free up INR 11,108/mo for essentials",60%,50,moderate,Aggressive Investor,91.65,766986,5,0,3,0,5,4
+419,REBALANCE,"Move INR 164,697 from equity to debt (85% → 70% equity)",60%,50,moderate,High-Risk Beginner,84.61,1128066,8,6,0,0,2,3
+420,REBALANCE,"Move INR 273,746 from equity to debt (100% → 60% equity)",93%,47,moderate,Young Accumulator,100.0,684365,4,5,3,0,4,4
+421,EMERGENCY_FUND_BUILD,"Save INR 2,000/mo toward emergency fund (INR 65,271 gap, ~32 months)",73%,57,moderate,High-Risk Beginner,74.15,971235,7,3,3,0,3,4
+422,EMERGENCY_FUND_BUILD,"Save INR 13,500/mo toward emergency fund (INR 391,158 gap, ~28 months)",93%,69,high,Aggressive Investor,77.28,585429,2,5,0,0,2,3
+423,SELL,"Sell INR 95,223 of equity holdings (30% of equity)",88%,44,low,Goal Chaser,55.22,574819,1,4,1,0,3,4
+424,SELL,"Sell INR 229,446 of equity holdings (30% of equity)",88%,38,low,Goal Chaser,98.08,779824,7,4,3,0,3,4
+425,INCREASE_SIP,"Increase SIP by INR 1,000/mo (INR 19,089 → INR 20,089)",87%,39,low,Young Accumulator,0.0,169120,0,0,0,0,4,3
+426,EMERGENCY_FUND_BUILD,"Save INR 1,000/mo toward emergency fund (INR 446,500 gap, ~446 months)",85%,72,high,Debt-Heavy Struggler,80.82,129332,0,4,0,0,2,3
+427,REBALANCE,"Move INR 283,544 from equity to debt (85% → 65% equity)",78%,57,moderate,Young Accumulator,85.1,1410668,7,5,3,0,3,4
+428,EMERGENCY_FUND_BUILD,"Save INR 7,500/mo toward emergency fund (INR 305,910 gap, ~40 months)",72%,49,moderate,Balanced Planner,69.39,478843,4,4,2,0,3,4
+429,EMERGENCY_FUND_BUILD,"Save INR 1,000/mo toward emergency fund (INR 42,129 gap, ~42 months)",68%,59,moderate,Aggressive Investor,94.79,538551,3,4,1,0,3,4
+430,EMERGENCY_FUND_BUILD,"Save INR 11,000/mo toward emergency fund (INR 268,548 gap, ~24 months)",85%,54,moderate,Passive Holder,34.83,263498,0,2,0,0,3,3
+431,SELL,"Sell INR 67,737 of equity holdings (30% of equity)",95%,66,high,Goal Chaser,92.82,243259,0,4,1,0,4,4
+432,START_SIP,"Start SIP at INR 7,000/mo (11.8% of salary)",85%,47,moderate,Passive Holder,10.1,207150,0,3,0,0,3,3
+433,SELL,"Sell INR 18,132 of equity holdings (40% of equity)",85%,42,low,Goal Chaser,44.66,101506,1,1,0,0,3,3
+434,REDUCE_SIP,"Reduce SIP by INR 5,000/mo (INR 8,048 → INR 3,048)",77%,64,high,Balanced Planner,40.12,394146,1,1,1,0,3,4
+435,START_SIP,"Start SIP at INR 7,500/mo (14.6% of salary)",85%,51,moderate,Aggressive Investor,78.94,402164,3,0,2,0,5,4
+436,SELL,"Sell INR 174,928 of equity holdings (30% of equity)",88%,50,moderate,Goal Chaser,74.0,788007,3,6,1,0,4,4
+437,REBALANCE,"Move INR 120,602 from equity to debt (98% → 65% equity)",97%,59,moderate,Goal Chaser,98.04,365462,2,2,2,0,4,4
+438,START_SIP,"Start SIP at INR 3,000/mo (9.7% of salary)",67%,38,low,Passive Holder,59.37,293153,0,3,0,0,4,3
+439,REBALANCE,"Move INR 36,574 from equity to debt (90% → 70% equity)",85%,57,moderate,Aggressive Investor,90.02,182871,3,0,2,0,4,4
+440,REBALANCE,"Move INR 198,859 from equity to debt (94% → 70% equity)",85%,47,moderate,Aggressive Investor,94.45,811673,4,3,2,0,3,4
+441,BUY,"Invest INR 3,000/mo into equities",78%,54,moderate,High-Risk Beginner,25.29,245149,2,0,1,0,4,4
+442,REBALANCE,"Move INR 160,448 from equity to debt (81% → 60% equity)",68%,41,low,Conservative Saver,80.67,775115,4,6,2,0,3,4
+443,EMERGENCY_FUND_BUILD,"Save INR 2,500/mo toward emergency fund (INR 139,035 gap, ~55 months)",80%,54,moderate,Aggressive Investor,92.97,1336719,6,6,2,0,3,4
+444,START_SIP,"Start SIP at INR 9,482/mo (14.4% of salary)",92%,46,moderate,Passive Holder,57.86,493395,1,3,0,0,2,3
+445,EMERGENCY_FUND_BUILD,"Save INR 5,500/mo toward emergency fund (INR 176,184 gap, ~32 months)",80%,50,moderate,Young Accumulator,10.4,60913,1,0,0,0,4,3
+446,REBALANCE,"Move INR 80,884 from equity to debt (81% → 65% equity)",68%,43,low,Balanced Planner,81.12,502387,2,5,0,0,3,3
+447,HOLD,Hold current positions — no changes needed,68%,51,moderate,Aggressive Investor,71.57,819286,4,1,1,0,3,4
+448,REBALANCE,"Move INR 141,393 from equity to debt (84% → 70% equity)",60%,43,low,Aggressive Investor,83.85,1017222,6,3,2,0,2,4
+449,INCREASE_SIP,"Increase SIP by INR 1,500/mo (INR 11,427 → INR 12,927)",80%,44,low,Balanced Planner,62.85,684905,1,6,0,0,1,2
+450,REBALANCE,"Move INR 62,516 from equity to debt (100% → 70% equity)",85%,70,high,High-Risk Beginner,100.0,208388,3,0,2,0,5,4
+451,REBALANCE,"Move INR 181,637 from equity to debt (90% → 65% equity)",97%,43,low,Goal Chaser,90.46,712305,6,3,2,0,3,4
+452,REBALANCE,"Move INR 268,537 from equity to debt (93% → 60% equity)",93%,53,moderate,Young Accumulator,92.74,821217,6,5,2,0,2,4
+453,REBALANCE,"Move INR 406,825 from equity to debt (97% → 60% equity)",93%,46,moderate,Conservative Saver,97.37,1087768,8,3,2,0,4,4
+454,REBALANCE,"Move INR 256,407 from equity to debt (100% → 65% equity)",93%,35,low,Young Accumulator,100.0,732594,6,0,5,0,5,4
+455,EMERGENCY_FUND_BUILD,"Save INR 3,000/mo toward emergency fund (INR 156,708 gap, ~52 months)",93%,71,high,Debt-Heavy Struggler,70.71,444281,1,3,1,0,3,4
+456,SWITCH_TO_DEBT,"Shift INR 77,047 from equity to debt funds (75% → 45.1% equity)",85%,42,low,Conservative Saver,75.1,341997,2,3,1,0,3,4
+457,REBALANCE,"Move INR 232,596 from equity to debt (96% → 60% equity)",93%,52,moderate,Debt-Heavy Struggler,96.37,639001,3,6,2,0,3,4
+458,SWITCH_TO_DEBT,"Shift INR 185,714 from equity to debt funds (73% → 43.2% equity)",85%,44,low,Passive Holder,73.21,845572,4,3,0,0,3,3
+459,STOP_SIP,"Stop SIP and free up INR 1,641/mo for essentials",70%,61,high,Balanced Planner,78.15,713081,3,4,1,0,2,4
+460,SELL,"Sell INR 278,022 of equity holdings (30% of equity)",95%,70,high,Goal Chaser,86.55,1070777,4,6,2,0,3,4
+461,REBALANCE,"Move INR 94,942 from equity to debt (100% → 70% equity)",85%,55,moderate,Aggressive Investor,100.0,316476,3,0,2,0,5,4
+462,DIVERSIFY_PORTFOLIO,"Add 1 stocks + 2 mutual funds, invest INR 1,500/mo across new instruments",83%,53,moderate,High-Risk Beginner,48.68,218677,0,2,0,0,3,3
+463,HOLD,Hold current positions — no changes needed,68%,53,moderate,Debt-Heavy Struggler,77.08,710424,3,3,2,0,3,4
+464,REBALANCE,"Move INR 152,057 from equity to debt (88% → 60% equity)",85%,51,moderate,Goal Chaser,88.31,537305,5,5,2,0,2,4
+465,REBALANCE,"Move INR 360,018 from equity to debt (89% → 60% equity)",78%,43,low,Conservative Saver,89.18,1232940,8,0,5,0,4,4
+466,START_SIP,"Start SIP at INR 6,500/mo (11.3% of salary)",93%,31,low,Young Accumulator,47.5,290116,2,3,1,0,3,4
+467,CONTINUE_SIP,"Continue SIP at INR 2,536/mo — on track (4.5% of salary)",73%,44,low,Aggressive Investor,71.83,617645,4,4,3,0,4,4
+468,REBALANCE,"Move INR 114,561 from equity to debt (100% → 60% equity)",93%,66,high,Debt-Heavy Struggler,100.0,286403,2,1,1,0,4,4
+469,START_SIP,"Start SIP at INR 10,000/mo (11.6% of salary)",97%,23,very_low,Aggressive Investor,70.75,313946,4,0,2,0,4,4
+470,REBALANCE,"Move INR 180,469 from equity to debt (100% → 65% equity)",97%,61,high,Balanced Planner,100.0,515626,4,1,2,0,4,4
+471,EMERGENCY_FUND_BUILD,"Save INR 2,000/mo toward emergency fund (INR 316,755 gap, ~158 months)",90%,81,very_high,Debt-Heavy Struggler,89.79,1601278,8,5,2,0,1,3
+472,START_SIP,"Start SIP at INR 8,482/mo (8.9% of salary)",87%,44,low,Young Accumulator,71.85,746904,3,3,1,0,2,4
+473,EMERGENCY_FUND_BUILD,"Save INR 8,500/mo toward emergency fund (INR 328,924 gap, ~38 months)",65%,53,moderate,Balanced Planner,69.1,457387,2,4,2,0,3,4
+474,REBALANCE,"Move INR 215,119 from equity to debt (97% → 65% equity)",93%,57,moderate,Debt-Heavy Struggler,96.95,674355,6,0,5,0,5,4
+475,START_SIP,"Start SIP at INR 9,500/mo (14.8% of salary)",97%,40,low,Young Accumulator,78.74,994991,7,3,2,0,3,3
+476,REBALANCE,"Move INR 148,503 from equity to debt (89% → 70% equity)",70%,54,moderate,Aggressive Investor,88.67,794135,4,2,4,0,4,4
+477,REDUCE_SIP,"Reduce SIP by INR 10,000/mo (INR 15,647 → INR 5,647)",67%,51,moderate,Balanced Planner,64.6,645399,3,5,2,0,3,4
+478,REBALANCE,"Move INR 237,534 from equity to debt (92% → 65% equity)",97%,48,moderate,Balanced Planner,91.87,883029,6,3,2,0,4,4
+479,INCREASE_SIP,"Increase SIP by INR 1,000/mo (INR 4,529 → INR 5,529)",74%,31,low,Conservative Saver,44.22,441343,2,4,0,0,4,3
+480,HOLD,Hold current positions — no changes needed,68%,46,moderate,High-Risk Beginner,66.55,590925,3,5,2,0,3,4
+481,REBALANCE,"Move INR 235,130 from equity to debt (91% → 65% equity)",93%,37,low,Aggressive Investor,91.23,897443,5,5,1,0,2,4
+482,REBALANCE,"Move INR 335,757 from equity to debt (95% → 65% equity)",93%,58,moderate,Young Accumulator,95.36,1104464,7,5,2,0,3,4
+483,REBALANCE,"Move INR 269,396 from equity to debt (98% → 60% equity)",93%,60,moderate,Balanced Planner,98.25,703386,6,6,4,0,3,4
+484,EMERGENCY_FUND_BUILD,"Save INR 13,000/mo toward emergency fund (INR 116,552 gap, ~8 months)",73%,78,very_high,Goal Chaser,100.0,194297,1,0,1,0,5,4
+485,EMERGENCY_FUND_BUILD,"Save INR 1,500/mo toward emergency fund (INR 284,496 gap, ~189 months)",73%,70,high,Goal Chaser,83.75,738627,3,6,1,0,1,3
+486,EMERGENCY_FUND_BUILD,"Save INR 3,000/mo toward emergency fund (INR 188,142 gap, ~62 months)",68%,52,moderate,Aggressive Investor,100.0,825243,6,2,2,0,3,4
+487,REBALANCE,"Move INR 303,559 from equity to debt (87% → 60% equity)",78%,43,low,Aggressive Investor,87.43,1107881,7,4,3,0,4,3
+488,REBALANCE,"Move INR 113,109 from equity to debt (87% → 70% equity)",70%,50,moderate,Aggressive Investor,86.74,677302,6,5,2,0,4,4
+489,REBALANCE,"Move INR 250,360 from equity to debt (89% → 65% equity)",85%,49,moderate,Goal Chaser,88.55,1060851,5,4,0,0,3,3
+490,STOP_SIP,"Stop SIP and free up INR 10,718/mo for essentials",60%,41,low,Balanced Planner,72.6,302595,3,1,1,0,5,4
+491,HOLD,Hold current positions — no changes needed,68%,62,high,Debt-Heavy Struggler,72.86,979065,4,6,2,0,2,4
+492,REBALANCE,"Move INR 20,043 from equity to debt (84% → 70% equity)",60%,40,low,Aggressive Investor,83.97,143169,3,0,1,0,5,4
+493,REBALANCE,"Move INR 165,111 from equity to debt (85% → 70% equity)",70%,52,moderate,Aggressive Investor,85.4,1072155,8,3,3,0,2,4
+494,REBALANCE,"Move INR 161,520 from equity to debt (100% → 70% equity)",85%,35,low,Aggressive Investor,100.0,538400,5,1,1,0,4,3
+495,REBALANCE,"Move INR 303,622 from equity to debt (100% → 60% equity)",93%,53,moderate,Conservative Saver,100.0,759055,4,2,2,0,4,4
+496,EMERGENCY_FUND_BUILD,"Save INR 1,500/mo toward emergency fund (INR 121,460 gap, ~80 months)",78%,75,high,Debt-Heavy Struggler,88.7,269362,1,3,1,0,3,4
+497,EMERGENCY_FUND_BUILD,"Save INR 1,000/mo toward emergency fund (INR 58,940 gap, ~58 months)",65%,61,high,Aggressive Investor,83.92,867367,8,0,3,0,4,4
+498,REBALANCE,"Move INR 218,617 from equity to debt (100% → 60% equity)",93%,49,moderate,Conservative Saver,100.0,546544,7,0,3,0,5,4
+499,CONTINUE_SIP,"Continue SIP at INR 5,587/mo — on track (10.7% of salary)",85%,53,moderate,High-Risk Beginner,71.99,256547,0,3,0,0,3,3
+500,EMERGENCY_FUND_BUILD,"Save INR 5,500/mo toward emergency fund (INR 157,750 gap, ~28 months)",80%,63,high,Aggressive Investor,73.16,1018666,5,6,0,0,2,3
+501,HOLD,Hold current positions — no changes needed,75%,50,moderate,Aggressive Investor,61.17,658618,5,4,1,0,2,4
+502,START_SIP,"Start SIP at INR 11,500/mo (14.8% of salary)",85%,46,moderate,Aggressive Investor,70.5,585011,3,2,1,0,3,4
+503,EMERGENCY_FUND_BUILD,"Save INR 6,500/mo toward emergency fund (INR 269,716 gap, ~41 months)",65%,53,moderate,Aggressive Investor,64.64,263760,2,1,2,0,4,4
+504,EMERGENCY_FUND_BUILD,"Save INR 2,500/mo toward emergency fund (INR 153,825 gap, ~61 months)",72%,57,moderate,Balanced Planner,87.04,564934,1,5,1,0,3,4
+505,REBALANCE,"Move INR 214,843 from equity to debt (83% → 60% equity)",68%,44,low,Aggressive Investor,83.32,922077,5,2,1,0,4,4
+506,EMERGENCY_FUND_BUILD,"Save INR 4,500/mo toward emergency fund (INR 281,756 gap, ~62 months)",68%,62,high,High-Risk Beginner,85.81,444141,4,3,1,0,4,4
+507,EMERGENCY_FUND_BUILD,"Save INR 6,500/mo toward emergency fund (INR 307,565 gap, ~47 months)",80%,62,high,Balanced Planner,72.09,516971,1,5,1,0,3,4
+508,START_SIP,"Start SIP at INR 4,000/mo (11.4% of salary)",93%,44,low,Young Accumulator,69.06,580483,1,6,1,0,2,4
+509,CONTINUE_SIP,"Continue SIP at INR 20,138/mo — on track (26.2% of salary)",87%,43,low,Balanced Planner,78.4,654592,5,2,2,0,3,4
+510,REBALANCE,"Move INR 107,290 from equity to debt (87% → 70% equity)",77%,51,moderate,Goal Chaser,86.54,650246,6,2,0,0,2,3
+511,INCREASE_SIP,"Increase SIP by INR 1,000/mo (INR 14,702 → INR 15,702)",86%,34,low,Balanced Planner,65.82,452379,1,6,0,0,2,3
+512,SELL,"Sell INR 108,983 of equity holdings (30% of equity)",95%,50,moderate,High-Risk Beginner,72.22,503044,3,0,2,0,4,4
+513,HOLD,Hold current positions — no changes needed,68%,45,low,Aggressive Investor,72.53,982666,6,5,1,0,3,4
+514,SWITCH_TO_DEBT,"Shift INR 256,027 from equity to debt funds (79% → 49.4% equity)",95%,50,moderate,Goal Chaser,79.42,1074575,7,5,1,0,2,4
+515,REBALANCE,"Move INR 128,717 from equity to debt (80% → 70% equity)",60%,44,low,Aggressive Investor,80.44,1237672,8,4,4,0,3,4
+516,REBALANCE,"Move INR 54,316 from equity to debt (90% → 70% equity)",85%,61,high,High-Risk Beginner,90.49,264959,1,2,1,0,4,4
+517,INCREASE_SIP,"Increase SIP by INR 4,500/mo (INR 5,787 → INR 10,287)",73%,46,moderate,High-Risk Beginner,79.48,460988,2,2,2,0,5,4
+518,START_SIP,"Start SIP at INR 7,140/mo (9.1% of salary)",94%,28,low,Conservative Saver,6.97,290997,2,1,0,0,3,3
+519,DIVERSIFY_PORTFOLIO,"Add 1 stocks + 2 mutual funds, invest INR 2,500/mo across new instruments",83%,42,low,Aggressive Investor,70.95,220259,0,2,0,0,2,3
+520,START_SIP,"Start SIP at INR 8,000/mo (14.7% of salary)",86%,38,low,Aggressive Investor,49.75,375958,2,1,2,0,4,4
+521,INCREASE_SIP,"Increase SIP by INR 7,000/mo (INR 5,088 → INR 12,088)",94%,33,low,Balanced Planner,56.29,708121,2,4,1,0,2,4
+522,START_SIP,"Start SIP at INR 4,848/mo (8.3% of salary)",88%,39,low,Young Accumulator,62.21,654393,4,5,1,0,3,4
+523,START_SIP,"Start SIP at INR 9,038/mo (10.5% of salary)",97%,31,low,Young Accumulator,58.69,370191,2,3,1,0,3,4
+524,REBALANCE,"Move INR 229,739 from equity to debt (98% → 70% equity)",85%,27,low,Aggressive Investor,98.38,808941,5,5,1,0,3,4
+525,EMERGENCY_FUND_BUILD,"Save INR 4,500/mo toward emergency fund (INR 255,852 gap, ~56 months)",93%,75,high,High-Risk Beginner,100.0,985510,8,2,2,0,3,4
+526,REBALANCE,"Move INR 236,881 from equity to debt (92% → 65% equity)",97%,52,moderate,Goal Chaser,92.15,870887,7,2,2,0,4,4
+527,REBALANCE,"Move INR 155,689 from equity to debt (87% → 65% equity)",78%,46,moderate,Young Accumulator,87.31,698160,7,0,2,0,5,4
+528,REBALANCE,"Move INR 290,746 from equity to debt (93% → 60% equity)",97%,59,moderate,Passive Holder,93.19,875742,8,3,3,0,4,4
+529,REBALANCE,"Move INR 176,430 from equity to debt (88% → 65% equity)",78%,52,moderate,Young Accumulator,87.8,773819,5,3,4,0,1,3
+530,REBALANCE,"Move INR 314,383 from equity to debt (89% → 65% equity)",78%,38,low,Aggressive Investor,89.42,1288459,7,6,3,0,2,4
+531,EMERGENCY_FUND_BUILD,"Save INR 2,000/mo toward emergency fund (INR 132,704 gap, ~66 months)",78%,74,high,Debt-Heavy Struggler,62.86,315494,1,3,1,0,4,4
+532,EMERGENCY_FUND_BUILD,"Save INR 2,000/mo toward emergency fund (INR 141,912 gap, ~70 months)",68%,60,moderate,Balanced Planner,82.56,468065,5,2,2,0,3,4
+533,SELL,"Sell INR 347,397 of equity holdings (30% of equity)",95%,62,high,Goal Chaser,89.44,1294712,8,3,1,0,3,4
+534,HOLD,Hold current positions — no changes needed,70%,58,moderate,Passive Holder,40.91,155415,0,3,0,0,2,3
+535,REBALANCE,"Move INR 74,871 from equity to debt (82% → 70% equity)",67%,51,moderate,Aggressive Investor,81.69,639924,5,5,4,0,1,3
+536,HOLD,Hold current positions — no changes needed,70%,38,low,Passive Holder,62.69,205709,0,3,0,0,4,3
+537,HOLD,Hold current positions — no changes needed,70%,51,moderate,Goal Chaser,49.86,319935,1,3,1,0,3,4
+538,EMERGENCY_FUND_BUILD,"Save INR 1,500/mo toward emergency fund (INR 384,175 gap, ~256 months)",85%,75,high,Goal Chaser,88.26,353146,1,3,1,0,4,4
+539,EMERGENCY_FUND_BUILD,"Save INR 3,500/mo toward emergency fund (INR 179,300 gap, ~51 months)",60%,46,moderate,Conservative Saver,0.0,53719,0,0,0,0,5,3
+540,EMERGENCY_FUND_BUILD,"Save INR 6,000/mo toward emergency fund (INR 248,232 gap, ~41 months)",65%,57,moderate,Debt-Heavy Struggler,92.36,352827,1,6,1,0,3,4
+541,SELL,"Sell INR 10,027 of equity holdings (30% of equity)",87%,43,low,Aggressive Investor,33.66,99300,0,2,0,0,4,3
+542,EMERGENCY_FUND_BUILD,"Save INR 6,500/mo toward emergency fund (INR 223,380 gap, ~34 months)",88%,56,moderate,Aggressive Investor,74.14,719606,4,1,2,0,4,4
+543,EMERGENCY_FUND_BUILD,"Save INR 3,000/mo toward emergency fund (INR 151,710 gap, ~50 months)",77%,57,moderate,High-Risk Beginner,52.28,194073,1,1,1,0,3,4
+544,INCREASE_SIP,"Increase SIP by INR 4,500/mo (INR 19,484 → INR 23,984)",86%,36,low,Balanced Planner,38.21,400197,0,5,0,0,3,3
+545,EMERGENCY_FUND_BUILD,"Save INR 3,000/mo toward emergency fund (INR 152,313 gap, ~50 months)",68%,55,moderate,Young Accumulator,97.37,1187668,8,3,2,0,3,4
+546,EMERGENCY_FUND_BUILD,"Save INR 5,000/mo toward emergency fund (INR 62,150 gap, ~12 months)",72%,52,moderate,Goal Chaser,62.38,643331,2,6,1,0,3,4
+547,CONTINUE_SIP,"Continue SIP at INR 12,770/mo — on track (14.4% of salary)",77%,52,moderate,Aggressive Investor,77.21,332915,2,0,1,0,5,4
+548,REBALANCE,"Move INR 260,184 from equity to debt (86% → 60% equity)",78%,44,low,Young Accumulator,86.08,996876,7,3,2,0,3,4
+549,REBALANCE,"Move INR 66,561 from equity to debt (83% → 65% equity)",68%,48,moderate,Young Accumulator,82.76,373943,1,5,2,0,3,4
+550,EMERGENCY_FUND_BUILD,"Save INR 16,000/mo toward emergency fund (INR 327,825 gap, ~20 months)",85%,60,moderate,High-Risk Beginner,55.4,319471,2,0,2,0,4,4
+551,START_SIP,"Start SIP at INR 5,000/mo (11.9% of salary)",97%,32,low,Young Accumulator,59.93,733652,3,6,1,0,2,4
+552,REBALANCE,"Move INR 386,548 from equity to debt (89% → 65% equity)",78%,31,low,Aggressive Investor,89.47,1577751,8,6,1,0,3,4
+553,HOLD,Hold current positions — no changes needed,68%,47,moderate,Debt-Heavy Struggler,77.65,1080373,5,6,2,0,1,3
+554,EMERGENCY_FUND_BUILD,"Save INR 3,000/mo toward emergency fund (INR 187,280 gap, ~62 months)",77%,49,moderate,Young Accumulator,79.8,774040,7,5,3,0,3,4
+555,SWITCH_TO_DEBT,"Shift INR 92,463 from equity to debt funds (66% → 40.0% equity)",83%,55,moderate,Goal Chaser,66.46,525750,2,5,1,0,1,3
+556,REBALANCE,"Move INR 365,033 from equity to debt (92% → 60% equity)",93%,56,moderate,Conservative Saver,92.23,1133643,7,5,2,0,4,3
+557,REBALANCE,"Move INR 455,719 from equity to debt (98% → 65% equity)",93%,47,moderate,Balanced Planner,98.43,1364431,8,4,3,0,3,4
+558,REBALANCE,"Move INR 83,880 from equity to debt (80% → 70% equity)",60%,38,low,Aggressive Investor,80.47,798860,5,0,2,0,4,4
+559,REBALANCE,"Move INR 43,884 from equity to debt (83% → 60% equity)",68%,48,moderate,Conservative Saver,83.44,187541,0,4,0,0,3,3
+560,CONTINUE_SIP,"Continue SIP at INR 6,438/mo — on track (8.7% of salary)",90%,34,low,Aggressive Investor,68.44,482685,0,5,0,0,1,2
+561,REBALANCE,"Move INR 147,871 from equity to debt (97% → 70% equity)",92%,44,low,Aggressive Investor,96.83,551760,6,1,3,0,4,4
+562,DIVERSIFY_PORTFOLIO,"Add 1 stocks + 2 mutual funds, invest INR 500/mo across new instruments",83%,45,low,Passive Holder,72.87,230206,1,1,1,0,4,4
+563,HOLD,Hold current positions — no changes needed,68%,42,low,Aggressive Investor,73.43,449247,2,4,1,0,2,4
+564,HOLD,Hold current positions — no changes needed,68%,62,high,Debt-Heavy Struggler,75.59,1044522,8,6,2,0,2,3
+565,REBALANCE,"Move INR 87,324 from equity to debt (100% → 60% equity)",93%,48,moderate,Passive Holder,100.0,218310,1,3,1,0,4,4
+566,REBALANCE,"Move INR 125,565 from equity to debt (94% → 70% equity)",85%,53,moderate,Aggressive Investor,93.84,527586,4,4,1,0,2,4
+567,REBALANCE,"Move INR 82,492 from equity to debt (90% → 70% equity)",70%,51,moderate,High-Risk Beginner,89.71,418744,5,0,2,0,5,4
+568,DIVERSIFY_PORTFOLIO,"Add 2 stocks + 2 mutual funds, invest INR 1,500/mo across new instruments",95%,47,moderate,Young Accumulator,58.87,146917,0,1,0,0,5,3
+569,REBALANCE,"Move INR 263,742 from equity to debt (96% → 70% equity)",85%,41,low,Young Accumulator,95.6,1030245,6,5,3,0,4,4
+570,REBALANCE,"Move INR 151,406 from equity to debt (89% → 65% equity)",85%,52,moderate,Goal Chaser,89.39,620520,6,2,2,0,4,4
+571,REBALANCE,"Move INR 58,895 from equity to debt (100% → 70% equity)",85%,55,moderate,Aggressive Investor,100.0,196319,2,3,2,0,3,4
+572,EMERGENCY_FUND_BUILD,"Save INR 3,500/mo toward emergency fund (INR 270,732 gap, ~77 months)",80%,60,moderate,Balanced Planner,98.55,857796,8,0,4,0,5,4
+573,REBALANCE,"Move INR 107,452 from equity to debt (93% → 70% equity)",85%,70,high,Debt-Heavy Struggler,92.73,473358,5,0,4,0,5,4
+574,START_SIP,"Start SIP at INR 2,000/mo (8.1% of salary)",75%,35,low,Aggressive Investor,77.1,793787,4,5,1,0,3,4
+575,REDUCE_SIP,"Reduce SIP by INR 6,000/mo (INR 13,680 → INR 7,680)",67%,48,moderate,Balanced Planner,61.32,622181,2,6,0,0,3,3
+576,REBALANCE,"Move INR 123,480 from equity to debt (81% → 70% equity)",67%,56,moderate,Aggressive Investor,81.34,1092746,5,5,2,0,1,3
+577,REBALANCE,"Move INR 237,395 from equity to debt (94% → 70% equity)",85%,41,low,Aggressive Investor,94.07,985045,6,4,3,0,4,4
+578,EMERGENCY_FUND_BUILD,"Save INR 1,000/mo toward emergency fund (INR 78,092 gap, ~78 months)",65%,55,moderate,Young Accumulator,43.59,344215,1,2,1,0,3,4
+579,REBALANCE,"Move INR 97,414 from equity to debt (81% → 65% equity)",75%,44,low,Goal Chaser,81.37,593988,4,5,1,0,3,4
+580,DIVERSIFY_PORTFOLIO,"Add 1 stocks + 2 mutual funds, invest INR 500/mo across new instruments",83%,57,moderate,Debt-Heavy Struggler,49.6,200936,1,1,1,0,5,4
+581,START_SIP,"Start SIP at INR 5,500/mo (12.0% of salary)",85%,48,moderate,Young Accumulator,29.86,346217,0,4,0,0,2,3
+582,REBALANCE,"Move INR 87,151 from equity to debt (99% → 65% equity)",93%,50,moderate,Passive Holder,98.97,256328,1,2,1,0,4,4
+583,EMERGENCY_FUND_BUILD,"Save INR 12,000/mo toward emergency fund (INR 196,374 gap, ~16 months)",93%,69,high,Debt-Heavy Struggler,90.19,933016,6,2,2,0,3,4
+584,EMERGENCY_FUND_BUILD,"Save INR 1,000/mo toward emergency fund (INR 75,640 gap, ~75 months)",65%,62,high,High-Risk Beginner,83.34,579053,3,6,2,0,4,4
+585,EMERGENCY_FUND_BUILD,"Save INR 2,000/mo toward emergency fund (INR 148,220 gap, ~74 months)",77%,59,moderate,High-Risk Beginner,94.17,960195,6,6,1,0,3,3
+586,CONTINUE_SIP,"Continue SIP at INR 3,583/mo — on track (6.6% of salary)",97%,46,moderate,Aggressive Investor,79.91,641715,2,6,2,0,3,4
+587,EMERGENCY_FUND_BUILD,"Save INR 1,500/mo toward emergency fund (INR 152,790 gap, ~101 months)",90%,76,very_high,Debt-Heavy Struggler,71.22,727316,1,5,1,0,2,4
+588,INCREASE_SIP,"Increase SIP by INR 7,500/mo (INR 7,974 → INR 15,474)",79%,49,moderate,Balanced Planner,62.41,346182,2,0,2,0,4,4
+589,EMERGENCY_FUND_BUILD,"Save INR 2,500/mo toward emergency fund (INR 133,428 gap, ~53 months)",73%,73,high,Debt-Heavy Struggler,81.49,351945,2,3,1,0,2,4
+590,SELL,"Sell INR 85,327 of equity holdings (30% of equity)",95%,69,high,Goal Chaser,53.13,535373,3,1,2,0,4,4
+591,REBALANCE,"Move INR 238,615 from equity to debt (85% → 60% equity)",68%,41,low,Conservative Saver,84.81,962161,7,0,3,0,5,4
+592,EMERGENCY_FUND_BUILD,"Save INR 1,000/mo toward emergency fund (INR 77,949 gap, ~77 months)",78%,72,high,Debt-Heavy Struggler,73.15,927493,5,5,0,0,3,3
+593,EMERGENCY_FUND_BUILD,"Save INR 1,500/mo toward emergency fund (INR 62,850 gap, ~41 months)",80%,67,high,Aggressive Investor,100.0,372533,2,2,1,0,3,4
+594,REBALANCE,"Move INR 208,959 from equity to debt (100% → 65% equity)",97%,48,moderate,Goal Chaser,99.63,603928,3,4,2,0,4,4
+595,HOLD,Hold current positions — no changes needed,70%,45,low,Goal Chaser,58.72,377290,1,2,2,0,3,4
+596,INCREASE_SIP,"Increase SIP by INR 6,500/mo (INR 2,530 → INR 9,030)",94%,26,low,Balanced Planner,39.9,505123,0,6,0,0,3,3
+597,EMERGENCY_FUND_BUILD,"Save INR 3,500/mo toward emergency fund (INR 71,886 gap, ~20 months)",93%,75,high,Debt-Heavy Struggler,90.75,197607,2,3,2,0,4,4
+598,REBALANCE,"Move INR 222,548 from equity to debt (94% → 65% equity)",93%,49,moderate,Balanced Planner,94.06,764770,6,5,4,0,4,4
+599,REBALANCE,"Move INR 160,735 from equity to debt (85% → 65% equity)",78%,43,low,Passive Holder,85.29,791801,7,0,3,0,4,4
+600,SELL,"Sell INR 290,200 of equity holdings (30% of equity)",95%,60,moderate,Aggressive Investor,96.14,1006201,8,3,1,0,5,4
+601,START_SIP,"Start SIP at INR 6,500/mo (14.1% of salary)",93%,43,low,Aggressive Investor,66.59,508328,5,3,2,0,3,4
+602,REBALANCE,"Move INR 31,440 from equity to debt (100% → 65% equity)",93%,56,moderate,Young Accumulator,100.0,89829,3,0,2,0,5,4
+603,EMERGENCY_FUND_BUILD,"Save INR 5,000/mo toward emergency fund (INR 143,030 gap, ~28 months)",80%,54,moderate,High-Risk Beginner,74.27,652278,6,5,1,0,3,4
+604,CONTINUE_SIP,"Continue SIP at INR 7,560/mo — on track (8.1% of salary)",85%,35,low,Conservative Saver,23.0,320892,1,3,0,0,3,3
+605,REBALANCE,"Move INR 312,180 from equity to debt (87% → 60% equity)",78%,39,low,Conservative Saver,87.05,1156223,7,6,1,0,3,4
+606,START_SIP,"Start SIP at INR 6,000/mo (9.7% of salary)",79%,51,moderate,Passive Holder,68.58,625056,4,1,1,0,3,4
+607,CONTINUE_SIP,"Continue SIP at INR 7,472/mo — on track (29.2% of salary)",80%,35,low,Aggressive Investor,59.51,556106,2,6,1,0,2,4
+608,REBALANCE,"Move INR 81,588 from equity to debt (81% → 65% equity)",75%,58,moderate,Goal Chaser,80.89,513135,3,4,1,0,3,4
+609,INCREASE_SIP,"Increase SIP by INR 5,000/mo (INR 1,270 → INR 6,270)",75%,39,low,Young Accumulator,0.0,123533,0,0,0,0,5,3
+610,REDUCE_SIP,"Reduce SIP by INR 2,000/mo (INR 5,418 → INR 3,418)",75%,55,moderate,Balanced Planner,79.85,882603,5,3,0,0,3,3
+611,INCREASE_SIP,"Increase SIP by INR 1,000/mo (INR 6,725 → INR 7,725)",81%,46,moderate,Aggressive Investor,75.66,70102,0,3,1,0,3,4
+612,REDUCE_SIP,"Reduce SIP by INR 2,500/mo (INR 5,789 → INR 3,289)",67%,51,moderate,Balanced Planner,64.68,772509,4,4,2,0,2,4
+613,EMERGENCY_FUND_BUILD,"Save INR 10,500/mo toward emergency fund (INR 127,988 gap, ~12 months)",73%,75,high,Goal Chaser,60.27,249909,2,0,1,0,5,4
+614,EMERGENCY_FUND_BUILD,"Save INR 9,000/mo toward emergency fund (INR 261,648 gap, ~29 months)",73%,67,high,Goal Chaser,57.61,345938,2,1,1,0,4,4
+615,START_SIP,"Start SIP at INR 3,500/mo (9.4% of salary)",87%,48,moderate,Young Accumulator,70.3,442930,0,5,0,0,2,3
+616,EMERGENCY_FUND_BUILD,"Save INR 6,000/mo toward emergency fund (INR 168,855 gap, ~28 months)",72%,51,moderate,High-Risk Beginner,92.34,554731,2,5,1,0,3,4
+617,CONTINUE_SIP,"Continue SIP at INR 8,859/mo — on track (19.0% of salary)",85%,52,moderate,Conservative Saver,0.0,67723,0,0,0,0,4,3
+618,START_SIP,"Start SIP at INR 7,000/mo (11.3% of salary)",93%,40,low,Young Accumulator,78.62,432322,3,0,2,0,5,4
+619,EMERGENCY_FUND_BUILD,"Save INR 7,000/mo toward emergency fund (INR 89,665 gap, ~12 months)",85%,62,high,Goal Chaser,85.67,1259999,6,6,1,0,3,4
+620,EMERGENCY_FUND_BUILD,"Save INR 4,500/mo toward emergency fund (INR 236,454 gap, ~52 months)",88%,53,moderate,Balanced Planner,42.16,315598,0,2,0,0,3,3
+621,REDUCE_SIP,"Reduce SIP by INR 9,500/mo (INR 15,878 → INR 6,378)",77%,51,moderate,Balanced Planner,71.73,576842,5,0,2,0,4,4
+622,REBALANCE,"Move INR 309,258 from equity to debt (89% → 60% equity)",78%,45,low,Aggressive Investor,88.57,1081324,6,5,1,0,2,4
+623,REBALANCE,"Move INR 215,161 from equity to debt (89% → 65% equity)",85%,60,moderate,Passive Holder,88.9,900256,8,2,2,0,4,4
+624,DIVERSIFY_PORTFOLIO,"Add 1 stocks + 2 mutual funds, invest INR 2,500/mo across new instruments",88%,55,moderate,Young Accumulator,72.7,151452,1,1,1,0,4,4
+625,INCREASE_SIP,"Increase SIP by INR 5,500/mo (INR 1,154 → INR 6,654)",75%,36,low,Young Accumulator,0.0,0,0,0,0,0,5,3
+626,REBALANCE,"Move INR 283,431 from equity to debt (95% → 65% equity)",93%,59,moderate,Young Accumulator,95.23,938515,8,2,4,0,4,3
+627,EMERGENCY_FUND_BUILD,"Save INR 8,000/mo toward emergency fund (INR 227,144 gap, ~28 months)",73%,74,high,High-Risk Beginner,51.47,166843,1,0,1,0,4,4
+628,EMERGENCY_FUND_BUILD,"Save INR 11,000/mo toward emergency fund (INR 356,320 gap, ~32 months)",72%,57,moderate,Young Accumulator,82.97,929511,7,1,3,0,4,4
+629,REBALANCE,"Move INR 258,002 from equity to debt (92% → 65% equity)",93%,38,low,Young Accumulator,91.73,966303,6,2,0,0,4,3
+630,START_SIP,"Start SIP at INR 6,500/mo (10.0% of salary)",79%,43,low,Passive Holder,74.12,250201,1,3,2,0,2,4
+631,CONTINUE_SIP,"Continue SIP at INR 8,704/mo — on track (12.8% of salary)",89%,41,low,Balanced Planner,58.73,295626,1,4,0,0,3,3
+632,REBALANCE,"Move INR 291,981 from equity to debt (86% → 60% equity)",78%,50,moderate,Debt-Heavy Struggler,86.38,1105991,8,3,3,0,2,4
+633,REBALANCE,"Move INR 199,330 from equity to debt (80% → 60% equity)",68%,44,low,Conservative Saver,80.16,986785,5,4,1,0,3,4
+634,START_SIP,"Start SIP at INR 10,500/mo (14.4% of salary)",85%,41,low,Aggressive Investor,64.4,659084,4,4,2,0,1,3
+635,REBALANCE,"Move INR 84,414 from equity to debt (84% → 70% equity)",60%,49,moderate,Aggressive Investor,83.55,625291,4,3,3,0,4,4
+636,EMERGENCY_FUND_BUILD,"Save INR 1,500/mo toward emergency fund (INR 96,618 gap, ~64 months)",80%,57,moderate,Young Accumulator,92.06,534360,6,0,3,0,5,4
+637,SELL,"Sell INR 345,504 of equity holdings (40% of equity)",97%,62,high,Goal Chaser,81.63,1058156,6,2,2,0,3,4
+638,EMERGENCY_FUND_BUILD,"Save INR 8,500/mo toward emergency fund (INR 170,125 gap, ~20 months)",77%,60,moderate,High-Risk Beginner,100.0,667149,6,1,3,0,4,4
+639,REDUCE_SIP,"Reduce SIP by INR 2,000/mo (INR 4,336 → INR 2,336)",75%,52,moderate,Goal Chaser,66.5,904396,2,5,2,0,2,4
+640,EMERGENCY_FUND_BUILD,"Save INR 12,000/mo toward emergency fund (INR 248,574 gap, ~20 months)",80%,58,moderate,High-Risk Beginner,70.43,646438,5,4,1,0,3,4
+641,EMERGENCY_FUND_BUILD,"Save INR 5,500/mo toward emergency fund (INR 143,308 gap, ~26 months)",65%,43,low,High-Risk Beginner,19.32,298907,0,3,0,0,4,3
+642,CONTINUE_SIP,"Continue SIP at INR 11,513/mo — on track (16.0% of salary)",90%,48,moderate,Balanced Planner,43.17,412223,2,4,0,0,3,3
+643,EMERGENCY_FUND_BUILD,"Save INR 1,500/mo toward emergency fund (INR 144,904 gap, ~96 months)",65%,74,high,Goal Chaser,87.16,648407,5,5,4,0,3,4
+644,EMERGENCY_FUND_BUILD,"Save INR 3,000/mo toward emergency fund (INR 257,505 gap, ~85 months)",72%,66,high,High-Risk Beginner,100.0,554997,2,5,1,0,2,4
+645,CONTINUE_SIP,"Continue SIP at INR 10,635/mo — on track (12.3% of salary)",83%,52,moderate,Aggressive Investor,70.68,413518,5,1,2,0,5,4
+646,REBALANCE,"Move INR 261,306 from equity to debt (100% → 65% equity)",93%,51,moderate,Young Accumulator,100.0,746590,6,3,2,0,4,4
+647,REBALANCE,"Move INR 178,257 from equity to debt (88% → 60% equity)",78%,55,moderate,Conservative Saver,88.38,627667,7,1,1,0,3,4
+648,SELL,"Sell INR 309,262 of equity holdings (40% of equity)",97%,59,moderate,Goal Chaser,100.0,773155,5,0,3,0,5,4
+649,REBALANCE,"Move INR 153,471 from equity to debt (82% → 70% equity)",60%,39,low,Aggressive Investor,82.34,1247732,8,2,4,0,4,4
+650,STOP_SIP,"Stop SIP and free up INR 7,545/mo for essentials",75%,35,low,Conservative Saver,0.0,77907,0,0,0,0,4,3
+651,CONTINUE_SIP,"Continue SIP at INR 8,195/mo — on track (13.6% of salary)",90%,38,low,Aggressive Investor,79.45,789827,6,4,2,0,3,4
+652,SWITCH_TO_DEBT,"Shift INR 107,577 from equity to debt funds (76% → 46.2% equity)",82%,50,moderate,Goal Chaser,76.17,470768,2,6,0,0,3,3
+653,HOLD,Hold current positions — no changes needed,69%,46,moderate,Balanced Planner,37.46,269922,0,4,0,0,4,3
+654,START_SIP,"Start SIP at INR 6,500/mo (14.3% of salary)",93%,51,moderate,Young Accumulator,71.66,528019,1,6,0,0,2,3
+655,DIVERSIFY_PORTFOLIO,"Add 1 stocks + 2 mutual funds, invest INR 500/mo across new instruments",88%,38,low,Debt-Heavy Struggler,6.76,260162,0,2,0,0,4,3
+656,START_SIP,"Start SIP at INR 11,000/mo (11.9% of salary)",97%,18,very_low,Aggressive Investor,68.05,524324,3,2,2,0,3,4
+657,REBALANCE,"Move INR 122,080 from equity to debt (100% → 65% equity)",93%,55,moderate,Aggressive Investor,100.0,348800,5,1,4,0,5,4
+658,REBALANCE,"Move INR 302,327 from equity to debt (93% → 60% equity)",93%,49,moderate,Balanced Planner,92.88,918930,8,4,3,0,2,4
+659,REBALANCE,"Move INR 64,963 from equity to debt (91% → 60% equity)",93%,48,moderate,Aggressive Investor,91.17,208217,0,3,0,0,3,3
+660,START_SIP,"Start SIP at INR 7,964/mo (9.0% of salary)",97%,28,low,Young Accumulator,59.84,591820,3,4,0,0,1,2
+661,REBALANCE,"Move INR 88,773 from equity to debt (81% → 60% equity)",68%,40,low,Conservative Saver,80.52,433040,1,5,1,0,4,4
+662,STOP_SIP,"Stop SIP and free up INR 11,685/mo for essentials",83%,43,low,Conservative Saver,68.84,529347,3,3,0,0,3,3
+663,EMERGENCY_FUND_BUILD,"Save INR 5,500/mo toward emergency fund (INR 70,824 gap, ~12 months)",73%,63,high,Goal Chaser,80.95,813606,7,2,4,0,3,4
+664,REBALANCE,"Move INR 247,286 from equity to debt (84% → 65% equity)",68%,49,moderate,Passive Holder,84.14,1294696,7,3,4,0,3,4
+665,REBALANCE,"Move INR 156,140 from equity to debt (90% → 65% equity)",93%,41,low,Balanced Planner,90.28,617156,4,2,3,0,3,4
+666,EMERGENCY_FUND_BUILD,"Save INR 12,000/mo toward emergency fund (INR 350,375 gap, ~29 months)",77%,68,high,Goal Chaser,86.95,936160,4,5,0,0,2,3
+667,REBALANCE,"Move INR 367,054 from equity to debt (100% → 65% equity)",97%,47,moderate,Balanced Planner,100.0,1048727,6,6,3,0,3,4
+668,REBALANCE,"Move INR 394,542 from equity to debt (95% → 60% equity)",93%,41,low,Aggressive Investor,95.38,1114527,8,5,5,0,2,4
+669,EMERGENCY_FUND_BUILD,"Save INR 1,500/mo toward emergency fund (INR 366,140 gap, ~244 months)",65%,62,high,High-Risk Beginner,89.66,334440,2,1,2,0,3,4
+670,REBALANCE,"Move INR 170,564 from equity to debt (100% → 70% equity)",92%,76,very_high,Debt-Heavy Struggler,100.0,568549,6,1,3,0,5,3
+671,REBALANCE,"Move INR 265,917 from equity to debt (87% → 65% equity)",85%,60,moderate,Goal Chaser,87.25,1192453,8,5,2,0,2,4
+672,REBALANCE,"Move INR 284,925 from equity to debt (97% → 65% equity)",93%,47,moderate,Debt-Heavy Struggler,97.4,879399,8,1,4,0,3,4
+673,REDUCE_SIP,"Reduce SIP by INR 4,500/mo (INR 8,986 → INR 4,486)",75%,52,moderate,Balanced Planner,78.63,699891,2,4,2,0,3,4
+674,SELL,"Sell INR 171,468 of equity holdings (40% of equity)",97%,57,moderate,Goal Chaser,96.38,444773,3,3,2,0,4,4
+675,EMERGENCY_FUND_BUILD,"Save INR 1,500/mo toward emergency fund (INR 66,312 gap, ~44 months)",60%,50,moderate,Balanced Planner,86.22,1006690,8,3,2,0,2,4
+676,DIVERSIFY_PORTFOLIO,"Add 1 stocks + 2 mutual funds, invest INR 2,000/mo across new instruments",83%,49,moderate,Passive Holder,44.43,276348,1,1,1,0,5,4
+677,HOLD,Hold current positions — no changes needed,82%,24,very_low,Balanced Planner,54.79,561662,6,4,0,0,1,2
+678,REBALANCE,"Move INR 192,517 from equity to debt (87% → 60% equity)",78%,39,low,Conservative Saver,87.3,705193,4,1,2,0,3,4
+679,REDUCE_SIP,"Reduce SIP by INR 6,500/mo (INR 12,567 → INR 6,067)",67%,46,moderate,Conservative Saver,79.51,998664,8,3,3,0,5,4
+680,HOLD,Hold current positions — no changes needed,67%,51,moderate,Aggressive Investor,77.65,1201928,6,6,0,0,3,3
+681,SWITCH_TO_DEBT,"Shift INR 186,987 from equity to debt funds (72% → 42.4% equity)",80%,60,moderate,High-Risk Beginner,72.4,860946,3,6,1,0,3,4
+682,REBALANCE,"Move INR 100,506 from equity to debt (88% → 70% equity)",77%,56,moderate,Goal Chaser,87.63,571058,5,1,3,0,5,4
+683,INCREASE_SIP,"Increase SIP by INR 11,000/mo (INR 1,463 → INR 12,463)",93%,39,low,High-Risk Beginner,48.8,476161,1,2,1,0,3,4
+684,REDUCE_SIP,"Reduce SIP by INR 12,000/mo (INR 20,850 → INR 8,850)",77%,49,moderate,Balanced Planner,69.61,493843,3,3,0,0,4,3
+685,EMERGENCY_FUND_BUILD,"Save INR 4,500/mo toward emergency fund (INR 240,126 gap, ~53 months)",93%,70,high,Debt-Heavy Struggler,60.09,226293,3,1,1,0,5,4
+686,SWITCH_TO_DEBT,"Shift INR 106,898 from equity to debt funds (66% → 40.0% equity)",70%,47,moderate,Goal Chaser,65.82,628920,2,4,1,0,2,4
+687,EMERGENCY_FUND_BUILD,"Save INR 2,000/mo toward emergency fund (INR 125,424 gap, ~62 months)",85%,57,moderate,High-Risk Beginner,83.04,581354,6,3,3,0,3,4
+688,INCREASE_SIP,"Increase SIP by INR 1,000/mo (INR 10,677 → INR 11,677)",75%,39,low,Aggressive Investor,79.23,418550,3,4,1,0,2,4
+689,EMERGENCY_FUND_BUILD,"Save INR 4,000/mo toward emergency fund (INR 190,615 gap, ~47 months)",80%,58,moderate,Young Accumulator,97.52,1128960,7,5,1,0,4,4
+690,START_SIP,"Start SIP at INR 9,000/mo (12.0% of salary)",93%,42,low,Young Accumulator,79.49,386329,1,4,1,0,3,4
+691,INCREASE_SIP,"Increase SIP by INR 6,500/mo (INR 10,147 → INR 16,647)",93%,38,low,High-Risk Beginner,66.84,645099,2,6,1,0,1,3
+692,START_SIP,"Start SIP at INR 4,500/mo (9.0% of salary)",87%,36,low,Aggressive Investor,67.05,514493,3,4,0,0,2,3
+693,CONTINUE_SIP,"Continue SIP at INR 4,056/mo — on track (17.0% of salary)",92%,33,low,Balanced Planner,56.29,470861,4,0,2,0,4,4
+694,CONTINUE_SIP,"Continue SIP at INR 4,627/mo — on track (11.8% of salary)",90%,46,moderate,Aggressive Investor,75.3,654896,3,6,1,0,1,3
+695,EMERGENCY_FUND_BUILD,"Save INR 1,500/mo toward emergency fund (INR 116,575 gap, ~77 months)",85%,72,high,Debt-Heavy Struggler,93.39,890675,5,6,2,0,2,4
+696,START_SIP,"Start SIP at INR 11,500/mo (14.7% of salary)",85%,35,low,High-Risk Beginner,65.88,580965,4,0,3,0,4,4
+697,SELL,"Sell INR 202,413 of equity holdings (30% of equity)",88%,48,moderate,Aggressive Investor,95.61,705720,6,0,4,0,5,4
+698,REBALANCE,"Move INR 225,942 from equity to debt (100% → 60% equity)",97%,51,moderate,Balanced Planner,100.0,564856,5,3,3,0,3,4
+699,REBALANCE,"Move INR 188,228 from equity to debt (98% → 70% equity)",85%,43,low,Young Accumulator,98.31,665117,6,0,3,0,5,3
+700,REBALANCE,"Move INR 132,430 from equity to debt (84% → 70% equity)",60%,47,moderate,High-Risk Beginner,83.71,966645,7,1,5,0,3,4
+701,HOLD,Hold current positions — no changes needed,75%,43,low,Conservative Saver,78.41,1355202,7,6,1,0,2,4
+702,REDUCE_SIP,"Reduce SIP by INR 4,500/mo (INR 7,545 → INR 3,045)",67%,46,moderate,Young Accumulator,79.09,39880,0,2,1,0,4,4
+703,REBALANCE,"Move INR 93,166 from equity to debt (85% → 70% equity)",67%,50,moderate,Aggressive Investor,84.91,625278,5,0,2,0,4,4
+704,EMERGENCY_FUND_BUILD,"Save INR 3,500/mo toward emergency fund (INR 152,748 gap, ~43 months)",93%,58,moderate,Aggressive Investor,69.44,462664,3,3,0,0,2,3
+705,CONTINUE_SIP,"Continue SIP at INR 11,104/mo — on track (30.0% of salary)",75%,41,low,Aggressive Investor,65.21,355192,1,2,1,0,4,4
+706,EMERGENCY_FUND_BUILD,"Save INR 3,000/mo toward emergency fund (INR 93,042 gap, ~31 months)",73%,54,moderate,Balanced Planner,81.12,1095999,7,2,2,0,4,4
+707,SELL,"Sell INR 90,255 of equity holdings (30% of equity)",95%,57,moderate,Goal Chaser,66.62,451576,0,5,0,0,1,2
+708,HOLD,Hold current positions — no changes needed,68%,53,moderate,Aggressive Investor,70.85,670999,4,1,2,0,3,4
+709,EMERGENCY_FUND_BUILD,"Save INR 4,500/mo toward emergency fund (INR 273,690 gap, ~60 months)",80%,52,moderate,Aggressive Investor,73.34,523738,1,5,1,0,3,4
+710,REBALANCE,"Move INR 86,040 from equity to debt (80% → 70% equity)",60%,55,moderate,High-Risk Beginner,80.21,843535,6,2,2,0,3,4
+711,INCREASE_SIP,"Increase SIP by INR 5,500/mo (INR 1,268 → INR 6,768)",81%,34,low,Aggressive Investor,74.45,368150,3,4,2,0,2,4
+712,REBALANCE,"Move INR 141,437 from equity to debt (86% → 65% equity)",85%,58,moderate,Balanced Planner,85.61,686591,6,3,2,0,3,4
+713,REBALANCE,"Move INR 280,048 from equity to debt (97% → 65% equity)",93%,39,low,Young Accumulator,97.33,867022,6,1,0,0,4,3
+714,REBALANCE,"Move INR 144,117 from equity to debt (90% → 70% equity)",85%,32,low,Aggressive Investor,90.15,717003,6,2,2,0,3,4
+715,REBALANCE,"Move INR 134,129 from equity to debt (88% → 70% equity)",70%,51,moderate,High-Risk Beginner,87.61,762098,5,0,5,0,5,4
+716,REBALANCE,"Move INR 73,514 from equity to debt (83% → 65% equity)",68%,56,moderate,Passive Holder,82.63,417695,2,3,2,0,4,4
+717,REBALANCE,"Move INR 452,912 from equity to debt (100% → 60% equity)",93%,53,moderate,Aggressive Investor,100.0,1132280,8,6,1,0,3,4
+718,REBALANCE,"Move INR 117,948 from equity to debt (89% → 65% equity)",85%,43,low,Goal Chaser,88.61,499782,2,6,2,0,3,4
+719,REBALANCE,"Move INR 116,371 from equity to debt (88% → 70% equity)",70%,52,moderate,Aggressive Investor,87.85,650118,6,0,1,0,5,4
+720,EMERGENCY_FUND_BUILD,"Save INR 5,500/mo toward emergency fund (INR 328,628 gap, ~59 months)",60%,60,moderate,High-Risk Beginner,100.0,615283,6,1,3,0,5,4
+721,REBALANCE,"Move INR 191,854 from equity to debt (98% → 70% equity)",85%,55,moderate,Young Accumulator,98.08,682757,4,3,2,0,4,4
+722,REBALANCE,"Move INR 174,807 from equity to debt (80% → 65% equity)",68%,53,moderate,Balanced Planner,80.11,1157663,7,4,1,0,3,4
+723,REBALANCE,"Move INR 121,544 from equity to debt (87% → 65% equity)",78%,51,moderate,Aggressive Investor,86.85,554996,3,1,3,0,5,4
+724,REBALANCE,"Move INR 259,037 from equity to debt (97% → 70% equity)",85%,34,low,Aggressive Investor,97.23,952345,8,2,4,0,4,4
+725,START_SIP,"Start SIP at INR 4,500/mo (9.5% of salary)",87%,32,low,Young Accumulator,0.0,132019,0,0,0,0,4,3
+726,SELL,"Sell INR 56,578 of equity holdings (30% of equity)",88%,54,moderate,High-Risk Beginner,72.98,258418,1,1,1,0,4,4
+727,REBALANCE,"Move INR 44,043 from equity to debt (94% → 70% equity)",92%,66,high,Goal Chaser,94.44,180507,1,4,0,0,4,3
+728,REBALANCE,"Move INR 88,529 from equity to debt (98% → 70% equity)",92%,55,moderate,Aggressive Investor,97.87,317310,3,1,2,0,4,4
+729,EMERGENCY_FUND_BUILD,"Save INR 3,000/mo toward emergency fund (INR 132,600 gap, ~44 months)",72%,54,moderate,Aggressive Investor,100.0,335432,2,0,2,0,5,4
+730,REBALANCE,"Move INR 187,198 from equity to debt (86% → 60% equity)",78%,41,low,Conservative Saver,86.38,709086,4,3,1,0,4,4
+731,EMERGENCY_FUND_BUILD,"Save INR 5,000/mo toward emergency fund (INR 329,100 gap, ~65 months)",93%,67,high,Debt-Heavy Struggler,56.5,294164,1,1,1,0,4,4
+732,REBALANCE,"Move INR 162,241 from equity to debt (81% → 60% equity)",68%,50,moderate,Balanced Planner,80.7,783775,7,0,4,0,4,4
+733,REBALANCE,"Move INR 163,458 from equity to debt (88% → 60% equity)",85%,50,moderate,Goal Chaser,88.0,583781,5,2,1,0,3,4
+734,REBALANCE,"Move INR 106,289 from equity to debt (84% → 65% equity)",68%,37,low,Young Accumulator,83.64,571447,5,2,3,0,3,4
+735,EMERGENCY_FUND_BUILD,"Save INR 2,500/mo toward emergency fund (INR 59,043 gap, ~23 months)",68%,63,high,Goal Chaser,93.38,566508,4,6,3,0,4,4
+736,EMERGENCY_FUND_BUILD,"Save INR 2,500/mo toward emergency fund (INR 353,616 gap, ~141 months)",80%,61,high,Aggressive Investor,70.94,239094,0,3,0,0,4,3
+737,REBALANCE,"Move INR 69,683 from equity to debt (81% → 65% equity)",68%,39,low,Young Accumulator,81.33,427506,2,2,2,0,3,4
+738,REBALANCE,"Move INR 74,318 from equity to debt (93% → 60% equity)",93%,58,moderate,Passive Holder,92.66,227274,2,0,2,0,4,4
+739,REBALANCE,"Move INR 151,180 from equity to debt (98% → 65% equity)",93%,72,high,Balanced Planner,98.33,453995,1,6,1,0,3,4
+740,SWITCH_TO_EQUITY,"Move INR 16,201 from debt to equity (31% → 50% equity)",87%,41,low,Debt-Heavy Struggler,30.95,123130,0,2,0,0,4,3
+741,SELL,"Sell INR 271,246 of equity holdings (30% of equity)",95%,51,moderate,Aggressive Investor,91.89,983998,8,3,3,0,3,4
+742,EMERGENCY_FUND_BUILD,"Save INR 5,000/mo toward emergency fund (INR 179,012 gap, ~35 months)",60%,60,moderate,Passive Holder,70.92,216645,1,4,1,0,3,4
+743,HOLD,Hold current positions — no changes needed,75%,38,low,Conservative Saver,76.06,468279,1,6,1,0,4,4
+744,HOLD,Hold current positions — no changes needed,70%,54,moderate,Debt-Heavy Struggler,75.97,348765,1,3,1,0,4,4
+745,SELL,"Sell INR 136,774 of equity holdings (30% of equity)",95%,54,moderate,Goal Chaser,73.56,619795,3,3,2,0,5,4
+746,INCREASE_SIP,"Increase SIP by INR 1,000/mo (INR 15,683 → INR 16,683)",75%,45,low,Aggressive Investor,75.06,970244,6,4,0,0,1,2
+747,REBALANCE,"Move INR 183,014 from equity to debt (86% → 65% equity)",85%,48,moderate,Passive Holder,85.71,884126,6,1,2,0,3,4
+748,REBALANCE,"Move INR 150,060 from equity to debt (82% → 60% equity)",68%,44,low,Balanced Planner,82.48,666935,5,4,2,0,4,4
+749,BUY,"Invest INR 13,000/mo into equities",82%,32,low,Conservative Saver,29.9,204769,1,0,1,0,5,4
+750,REBALANCE,"Move INR 176,544 from equity to debt (87% → 60% equity)",78%,29,low,Conservative Saver,86.88,656301,6,0,3,0,5,4
+751,REBALANCE,"Move INR 212,323 from equity to debt (95% → 60% equity)",93%,62,high,Balanced Planner,95.19,603193,4,2,3,0,4,4
+752,REBALANCE,"Move INR 256,274 from equity to debt (91% → 70% equity)",85%,47,moderate,Aggressive Investor,91.36,1197545,7,6,3,0,2,4
+753,REBALANCE,"Move INR 130,117 from equity to debt (84% → 70% equity)",60%,48,moderate,Aggressive Investor,83.59,956746,5,4,3,0,2,4
+754,EMERGENCY_FUND_BUILD,"Save INR 4,500/mo toward emergency fund (INR 116,712 gap, ~25 months)",88%,74,high,Goal Chaser,82.05,414207,3,3,2,0,2,4
+755,START_SIP,"Start SIP at INR 14,500/mo (14.8% of salary)",93%,49,moderate,High-Risk Beginner,67.69,407697,2,0,1,0,4,4
+756,EMERGENCY_FUND_BUILD,"Save INR 2,500/mo toward emergency fund (INR 411,138 gap, ~164 months)",85%,75,high,Debt-Heavy Struggler,87.48,761755,5,3,2,0,3,4
+757,START_SIP,"Start SIP at INR 7,000/mo (9.6% of salary)",87%,41,low,Young Accumulator,0.0,114305,0,0,0,0,4,3
+758,REBALANCE,"Move INR 143,692 from equity to debt (85% → 60% equity)",68%,52,moderate,High-Risk Beginner,84.79,579406,6,3,3,0,2,4
+759,INCREASE_SIP,"Increase SIP by INR 4,500/mo (INR 3,709 → INR 8,209)",81%,38,low,Young Accumulator,52.19,138040,1,1,1,0,3,4
+760,EMERGENCY_FUND_BUILD,"Save INR 3,000/mo toward emergency fund (INR 412,290 gap, ~137 months)",80%,62,high,High-Risk Beginner,70.88,847236,3,5,1,0,1,3
+761,START_SIP,"Start SIP at INR 3,500/mo (9.7% of salary)",87%,47,moderate,Young Accumulator,0.0,186027,0,0,0,0,4,3
+762,EMERGENCY_FUND_BUILD,"Save INR 5,500/mo toward emergency fund (INR 285,265 gap, ~51 months)",72%,48,moderate,Balanced Planner,90.95,1204790,7,2,2,0,3,4
+763,STOP_SIP,"Stop SIP and free up INR 1,866/mo for essentials",70%,48,moderate,Aggressive Investor,90.33,725507,4,2,2,0,4,4
+764,EMERGENCY_FUND_BUILD,"Save INR 1,000/mo toward emergency fund (INR 286,395 gap, ~286 months)",90%,73,high,Goal Chaser,73.2,957543,7,3,1,0,2,3
+765,SELL,"Sell INR 198,666 of equity holdings (30% of equity)",95%,57,moderate,Goal Chaser,78.48,843858,3,5,1,0,3,4
+766,EMERGENCY_FUND_BUILD,"Save INR 6,000/mo toward emergency fund (INR 320,688 gap, ~53 months)",88%,55,moderate,Aggressive Investor,90.3,1016810,7,4,3,0,2,4
+767,EMERGENCY_FUND_BUILD,"Save INR 5,500/mo toward emergency fund (INR 88,968 gap, ~16 months)",73%,74,high,High-Risk Beginner,70.02,260226,0,3,1,0,3,4
+768,EMERGENCY_FUND_BUILD,"Save INR 3,500/mo toward emergency fund (INR 241,812 gap, ~69 months)",80%,58,moderate,Conservative Saver,0.0,39866,0,0,0,0,4,3
+769,REBALANCE,"Move INR 158,824 from equity to debt (86% → 70% equity)",70%,40,low,Aggressive Investor,86.08,986490,8,0,6,0,4,4
+770,CONTINUE_SIP,"Continue SIP at INR 1,071/mo — on track (2.8% of salary)",75%,49,moderate,Balanced Planner,0.0,57989,0,1,0,0,5,3
+771,STOP_SIP,"Stop SIP and free up INR 5,929/mo for essentials",75%,41,low,Balanced Planner,53.49,168504,0,5,0,0,4,3
+772,SWITCH_TO_DEBT,"Shift INR 60,269 from equity to debt funds (60% → 40.0% equity)",73%,51,moderate,Balanced Planner,60.14,497618,0,6,0,0,1,2
+773,REBALANCE,"Move INR 318,537 from equity to debt (94% → 70% equity)",85%,52,moderate,Aggressive Investor,93.84,1338393,7,6,1,0,2,4
+774,REBALANCE,"Move INR 127,837 from equity to debt (92% → 65% equity)",93%,36,low,Balanced Planner,92.02,473472,2,3,2,0,3,4
+775,START_SIP,"Start SIP at INR 10,268/mo (12.8% of salary)",85%,42,low,High-Risk Beginner,71.26,478240,1,5,0,0,3,3
+776,EMERGENCY_FUND_BUILD,"Save INR 5,500/mo toward emergency fund (INR 67,384 gap, ~12 months)",60%,63,high,Goal Chaser,96.2,633286,5,4,1,0,4,4
+777,SELL,"Sell INR 61,187 of equity holdings (30% of equity)",88%,64,high,Goal Chaser,89.94,226780,0,5,1,0,5,4
+778,EMERGENCY_FUND_BUILD,"Save INR 2,000/mo toward emergency fund (INR 134,320 gap, ~67 months)",60%,63,high,Young Accumulator,100.0,426123,4,0,4,0,5,4
+779,REBALANCE,"Move INR 74,530 from equity to debt (88% → 60% equity)",78%,41,low,Passive Holder,88.2,264291,0,3,0,0,3,3
+780,HOLD,Hold current positions — no changes needed,75%,60,moderate,Goal Chaser,79.17,296929,1,6,0,0,2,3
+781,STOP_SIP,"Stop SIP and free up INR 4,463/mo for essentials",78%,61,high,Debt-Heavy Struggler,97.45,911826,4,5,3,0,4,4
+782,REBALANCE,"Move INR 115,898 from equity to debt (100% → 65% equity)",93%,46,moderate,Young Accumulator,100.0,331139,1,3,1,0,4,4
+783,REBALANCE,"Move INR 254,944 from equity to debt (81% → 60% equity)",68%,32,low,Young Accumulator,81.49,1185789,8,5,3,0,0,2
+784,REBALANCE,"Move INR 264,880 from equity to debt (100% → 65% equity)",93%,34,low,Young Accumulator,100.0,756800,6,1,2,0,5,4
+785,EMERGENCY_FUND_BUILD,"Save INR 3,000/mo toward emergency fund (INR 90,104 gap, ~30 months)",65%,57,moderate,Aggressive Investor,87.42,851450,8,2,1,0,3,4
+786,REBALANCE,"Move INR 209,723 from equity to debt (95% → 60% equity)",93%,43,low,Aggressive Investor,95.3,594117,4,5,3,0,3,4
+787,REBALANCE,"Move INR 156,251 from equity to debt (85% → 60% equity)",68%,63,high,Debt-Heavy Struggler,84.56,635168,4,3,1,0,2,4
+788,REBALANCE,"Move INR 16,545 from equity to debt (100% → 60% equity)",93%,41,low,Young Accumulator,100.0,41363,0,1,0,0,4,3
+789,SELL,"Sell INR 66,322 of equity holdings (40% of equity)",97%,62,high,Goal Chaser,54.24,305666,1,0,1,0,5,4
+790,REBALANCE,"Move INR 174,496 from equity to debt (87% → 65% equity)",78%,37,low,Balanced Planner,87.35,782494,5,3,2,0,3,4
+791,SELL,"Sell INR 90,019 of equity holdings (30% of equity)",88%,44,low,Goal Chaser,70.17,427641,3,5,1,0,3,4
+792,REBALANCE,"Move INR 86,150 from equity to debt (100% → 65% equity)",97%,59,moderate,Goal Chaser,100.0,246143,2,2,3,0,4,4
+793,INCREASE_SIP,"Increase SIP by INR 11,000/mo (INR 2,785 → INR 13,785)",80%,40,low,Young Accumulator,65.81,258867,0,5,0,0,4,3
+794,EMERGENCY_FUND_BUILD,"Save INR 7,000/mo toward emergency fund (INR 254,860 gap, ~36 months)",65%,57,moderate,Young Accumulator,88.39,959365,6,3,4,0,2,4
+795,CONTINUE_SIP,"Continue SIP at INR 7,996/mo — on track (15.9% of salary)",90%,44,low,Balanced Planner,79.9,536101,5,2,2,0,5,4
+796,EMERGENCY_FUND_BUILD,"Save INR 1,000/mo toward emergency fund (INR 359,136 gap, ~359 months)",73%,61,high,Debt-Heavy Struggler,98.59,811408,5,4,2,0,3,4
+797,REBALANCE,"Move INR 348,664 from equity to debt (97% → 60% equity)",93%,45,low,Aggressive Investor,96.86,944889,7,1,2,0,5,3
+798,REBALANCE,"Move INR 136,321 from equity to debt (89% → 70% equity)",70%,46,moderate,Young Accumulator,89.33,706328,4,6,2,0,3,4
+799,REBALANCE,"Move INR 332,230 from equity to debt (90% → 60% equity)",93%,61,high,Debt-Heavy Struggler,90.27,1096469,8,5,2,0,2,4
+800,EMERGENCY_FUND_BUILD,"Save INR 3,000/mo toward emergency fund (INR 179,217 gap, ~59 months)",68%,54,moderate,Young Accumulator,100.0,384898,2,4,2,0,3,4
+801,REBALANCE,"Move INR 276,712 from equity to debt (96% → 65% equity)",93%,47,moderate,Balanced Planner,95.63,904289,8,1,2,0,5,4
+802,INCREASE_SIP,"Increase SIP by INR 8,500/mo (INR 2,971 → INR 11,471)",93%,35,low,Aggressive Investor,64.09,474006,1,6,1,0,1,3
+803,HOLD,Hold current positions — no changes needed,75%,57,moderate,Goal Chaser,69.14,887785,4,6,1,0,2,4
+804,CONTINUE_SIP,"Continue SIP at INR 1,949/mo — on track (4.3% of salary)",80%,61,high,Debt-Heavy Struggler,79.87,827177,4,1,2,0,5,4
+805,REBALANCE,"Move INR 203,845 from equity to debt (90% → 60% equity)",93%,42,low,Aggressive Investor,90.28,672759,6,1,1,0,4,4
+806,REBALANCE,"Move INR 222,779 from equity to debt (89% → 60% equity)",78%,45,low,Aggressive Investor,89.34,760341,3,6,1,0,3,4
+807,REBALANCE,"Move INR 185,293 from equity to debt (91% → 65% equity)",93%,47,moderate,Aggressive Investor,90.61,723804,5,1,2,0,4,4
+808,REBALANCE,"Move INR 158,605 from equity to debt (98% → 65% equity)",93%,58,moderate,Balanced Planner,97.91,482085,4,4,2,0,4,4
+809,REBALANCE,"Move INR 136,714 from equity to debt (98% → 60% equity)",97%,51,moderate,Goal Chaser,98.03,359774,2,3,2,0,5,4
+810,START_SIP,"Start SIP at INR 7,000/mo (11.8% of salary)",97%,24,very_low,Aggressive Investor,75.82,471689,3,5,1,0,2,4
+811,EMERGENCY_FUND_BUILD,"Save INR 2,000/mo toward emergency fund (INR 134,092 gap, ~67 months)",60%,50,moderate,Aggressive Investor,76.37,905206,4,2,3,0,4,4
+812,START_SIP,"Start SIP at INR 4,000/mo (10.7% of salary)",92%,43,low,Passive Holder,0.0,184268,0,0,0,0,4,3
+813,EMERGENCY_FUND_BUILD,"Save INR 5,500/mo toward emergency fund (INR 328,878 gap, ~59 months)",93%,75,high,Debt-Heavy Struggler,90.09,613385,5,5,2,0,4,4
+814,REBALANCE,"Move INR 78,236 from equity to debt (84% → 60% equity)",68%,45,low,Aggressive Investor,84.22,323293,2,0,2,0,5,4
+815,EMERGENCY_FUND_BUILD,"Save INR 2,000/mo toward emergency fund (INR 127,380 gap, ~63 months)",85%,54,moderate,Aggressive Investor,88.33,1093187,7,6,1,0,4,4
+816,REBALANCE,"Move INR 202,232 from equity to debt (100% → 65% equity)",97%,63,high,Balanced Planner,100.0,577807,6,0,4,0,5,4
+817,EMERGENCY_FUND_BUILD,"Save INR 2,000/mo toward emergency fund (INR 261,708 gap, ~130 months)",73%,79,very_high,Goal Chaser,96.74,722719,8,1,1,0,5,4
+818,SELL,"Sell INR 305,203 of equity holdings (30% of equity)",88%,46,moderate,Aggressive Investor,87.72,1159773,8,5,0,0,4,3
+819,EMERGENCY_FUND_BUILD,"Save INR 3,000/mo toward emergency fund (INR 104,075 gap, ~34 months)",85%,69,high,Debt-Heavy Struggler,74.51,585957,5,1,2,0,4,4
+820,START_SIP,"Start SIP at INR 7,500/mo (15.0% of salary)",93%,36,low,Aggressive Investor,76.68,887645,4,6,1,0,2,4
+821,REBALANCE,"Move INR 113,249 from equity to debt (86% → 70% equity)",70%,36,low,Aggressive Investor,86.17,699073,5,6,2,0,2,4
+822,START_SIP,"Start SIP at INR 6,000/mo (11.6% of salary)",93%,41,low,Young Accumulator,67.38,693519,6,0,2,0,4,4
+823,REBALANCE,"Move INR 95,699 from equity to debt (100% → 65% equity)",93%,43,low,Aggressive Investor,100.0,273427,4,1,2,0,5,4
+824,SWITCH_TO_DEBT,"Shift INR 188,349 from equity to debt funds (74% → 43.7% equity)",90%,47,moderate,Goal Chaser,73.68,852157,5,3,1,0,3,4
+825,REBALANCE,"Move INR 103,628 from equity to debt (90% → 65% equity)",93%,56,moderate,Balanced Planner,90.06,412862,3,3,1,0,3,4
+826,EMERGENCY_FUND_BUILD,"Save INR 13,500/mo toward emergency fund (INR 279,516 gap, ~20 months)",73%,68,high,Aggressive Investor,66.11,233313,1,0,1,0,4,4
+827,EMERGENCY_FUND_BUILD,"Save INR 3,000/mo toward emergency fund (INR 78,672 gap, ~26 months)",88%,64,high,Aggressive Investor,82.97,210084,1,1,1,0,5,4
+828,START_SIP,"Start SIP at INR 4,500/mo (14.9% of salary)",85%,43,low,Aggressive Investor,77.52,861125,6,2,2,0,4,4
+829,REBALANCE,"Move INR 125,689 from equity to debt (85% → 70% equity)",60%,44,low,Aggressive Investor,84.7,855030,4,1,3,0,4,4
+830,BUY,"Invest INR 11,500/mo into equities",94%,45,low,Passive Holder,5.69,124615,1,1,0,0,5,3
+831,HOLD,Hold current positions — no changes needed,75%,43,low,Balanced Planner,61.02,414619,3,2,2,0,3,4
+832,EMERGENCY_FUND_BUILD,"Save INR 2,000/mo toward emergency fund (INR 143,814 gap, ~71 months)",90%,66,high,Aggressive Investor,95.91,731370,5,0,2,0,4,4
+833,REBALANCE,"Move INR 33,010 from equity to debt (82% → 70% equity)",60%,56,moderate,High-Risk Beginner,81.94,277396,1,2,1,0,3,4
+834,EMERGENCY_FUND_BUILD,"Save INR 2,000/mo toward emergency fund (INR 143,094 gap, ~71 months)",93%,75,high,Aggressive Investor,71.21,389506,2,1,1,0,3,4
+835,REBALANCE,"Move INR 259,765 from equity to debt (81% → 60% equity)",68%,47,moderate,Young Accumulator,81.11,1231115,8,5,1,0,2,3
+836,HOLD,Hold current positions — no changes needed,75%,59,moderate,Aggressive Investor,74.68,361656,5,5,2,0,3,4
+837,REBALANCE,"Move INR 132,976 from equity to debt (89% → 70% equity)",77%,61,high,Goal Chaser,88.64,714928,5,6,2,0,3,4
+838,REBALANCE,"Move INR 161,739 from equity to debt (87% → 60% equity)",85%,48,moderate,Conservative Saver,87.39,590290,2,4,2,0,4,4
+839,REBALANCE,"Move INR 277,490 from equity to debt (90% → 65% equity)",93%,45,low,Aggressive Investor,90.2,1101151,7,2,2,0,4,4
+840,REBALANCE,"Move INR 118,770 from equity to debt (82% → 70% equity)",60%,41,low,Aggressive Investor,82.23,973529,6,6,3,0,2,4
+841,CONTINUE_SIP,"Continue SIP at INR 2,974/mo — on track (10.0% of salary)",97%,37,low,Conservative Saver,78.13,573259,5,0,3,0,4,4
+842,EMERGENCY_FUND_BUILD,"Save INR 5,000/mo toward emergency fund (INR 172,708 gap, ~34 months)",68%,71,high,High-Risk Beginner,100.0,381623,2,1,3,0,5,4
+843,EMERGENCY_FUND_BUILD,"Save INR 1,500/mo toward emergency fund (INR 98,391 gap, ~65 months)",73%,59,moderate,High-Risk Beginner,80.34,1446726,8,6,0,0,3,2
+844,REBALANCE,"Move INR 144,808 from equity to debt (88% → 70% equity)",70%,57,moderate,Aggressive Investor,88.39,787004,6,5,2,0,2,4
+845,REBALANCE,"Move INR 152,346 from equity to debt (100% → 60% equity)",97%,56,moderate,Goal Chaser,100.0,380866,4,0,3,0,5,4
+846,REBALANCE,"Move INR 161,942 from equity to debt (85% → 65% equity)",85%,44,low,Balanced Planner,85.17,801695,6,1,4,0,4,4
+847,REBALANCE,"Move INR 32,023 from equity to debt (100% → 60% equity)",93%,39,low,Young Accumulator,100.0,80059,2,0,2,0,5,4
+848,EMERGENCY_FUND_BUILD,"Save INR 2,000/mo toward emergency fund (INR 109,500 gap, ~54 months)",85%,61,high,Aggressive Investor,74.03,1103261,8,3,2,0,3,4
+849,REBALANCE,"Move INR 94,568 from equity to debt (81% → 70% equity)",60%,43,low,Aggressive Investor,81.41,829546,6,5,2,0,2,4
+850,SWITCH_TO_DEBT,"Shift INR 244,995 from equity to debt funds (76% → 46.4% equity)",85%,45,low,Conservative Saver,76.38,1069258,7,6,0,0,3,3
+851,START_SIP,"Start SIP at INR 4,500/mo (9.9% of salary)",79%,44,low,Passive Holder,74.05,529047,2,2,2,0,4,4
+852,EMERGENCY_FUND_BUILD,"Save INR 2,000/mo toward emergency fund (INR 112,656 gap, ~56 months)",88%,60,moderate,High-Risk Beginner,55.96,600563,2,6,0,0,2,3
+853,CONTINUE_SIP,Continue SIP at INR 526/mo — on track (0.7% of salary),75%,45,low,Balanced Planner,63.06,267929,1,1,1,0,4,4
+854,REBALANCE,"Move INR 127,070 from equity to debt (100% → 70% equity)",92%,63,high,Goal Chaser,100.0,423567,2,3,2,0,4,4
+855,REBALANCE,"Move INR 160,975 from equity to debt (100% → 70% equity)",85%,50,moderate,Aggressive Investor,100.0,536586,4,1,3,0,5,4
+856,REBALANCE,"Move INR 212,715 from equity to debt (100% → 70% equity)",85%,52,moderate,Young Accumulator,100.0,709053,7,1,2,0,5,4
+857,EMERGENCY_FUND_BUILD,"Save INR 3,000/mo toward emergency fund (INR 138,652 gap, ~46 months)",68%,55,moderate,Aggressive Investor,68.8,979808,4,5,0,0,3,3
+858,HOLD,Hold current positions — no changes needed,75%,43,low,Aggressive Investor,72.11,654059,4,4,1,0,3,4
+859,REBALANCE,"Move INR 272,621 from equity to debt (96% → 60% equity)",93%,38,low,Conservative Saver,96.07,755184,4,6,4,0,3,4
+860,EMERGENCY_FUND_BUILD,"Save INR 13,000/mo toward emergency fund (INR 262,614 gap, ~20 months)",93%,75,high,High-Risk Beginner,86.99,1288919,8,6,4,0,2,4
+861,SWITCH_TO_DEBT,"Shift INR 40,260 from equity to debt funds (58% → 40.0% equity)",73%,56,moderate,Conservative Saver,58.38,375146,1,4,0,0,2,3
+862,REBALANCE,"Move INR 93,232 from equity to debt (81% → 70% equity)",60%,28,low,Aggressive Investor,81.05,847571,8,3,2,0,3,4
+863,REBALANCE,"Move INR 79,667 from equity to debt (81% → 65% equity)",68%,56,moderate,Young Accumulator,81.12,494827,2,6,1,0,3,4
+864,REBALANCE,"Move INR 92,196 from equity to debt (83% → 70% equity)",60%,33,low,Aggressive Investor,82.72,725958,4,3,3,0,3,4
+865,EMERGENCY_FUND_BUILD,"Save INR 3,500/mo toward emergency fund (INR 179,068 gap, ~51 months)",65%,56,moderate,Young Accumulator,79.78,615131,3,3,2,0,4,4
+866,REBALANCE,"Move INR 164,513 from equity to debt (83% → 65% equity)",68%,49,moderate,Aggressive Investor,83.49,889264,8,2,2,0,3,4
+867,REBALANCE,"Move INR 185,905 from equity to debt (84% → 70% equity)",60%,49,moderate,Aggressive Investor,83.88,1337451,7,3,2,0,3,4
+868,EMERGENCY_FUND_BUILD,"Save INR 7,500/mo toward emergency fund (INR 390,912 gap, ~52 months)",88%,76,very_high,Passive Holder,98.79,1153747,8,4,5,0,3,4
+869,EMERGENCY_FUND_BUILD,"Save INR 6,500/mo toward emergency fund (INR 316,860 gap, ~48 months)",88%,72,high,High-Risk Beginner,100.0,298186,2,2,1,0,4,4
+870,EMERGENCY_FUND_BUILD,"Save INR 4,000/mo toward emergency fund (INR 210,900 gap, ~52 months)",88%,55,moderate,Aggressive Investor,84.26,1267685,6,5,2,0,1,2
+871,CONTINUE_SIP,"Continue SIP at INR 4,175/mo — on track (6.4% of salary)",92%,36,low,Aggressive Investor,54.64,417623,0,4,0,0,3,3
+872,EMERGENCY_FUND_BUILD,"Save INR 1,000/mo toward emergency fund (INR 62,872 gap, ~62 months)",65%,54,moderate,Aggressive Investor,72.51,913881,4,5,0,0,3,3
+873,REBALANCE,"Move INR 129,846 from equity to debt (88% → 65% equity)",85%,61,high,Goal Chaser,88.24,559682,4,4,2,0,2,4
+874,REBALANCE,"Move INR 276,209 from equity to debt (82% → 60% equity)",68%,30,low,Conservative Saver,82.25,1238606,8,4,3,0,2,4
+875,REBALANCE,"Move INR 282,644 from equity to debt (97% → 60% equity)",97%,50,moderate,Conservative Saver,97.04,763904,8,4,4,0,2,4
+876,REBALANCE,"Move INR 176,966 from equity to debt (86% → 70% equity)",77%,53,moderate,High-Risk Beginner,86.4,1079067,8,6,3,0,4,4
+877,REDUCE_SIP,"Reduce SIP by INR 13,500/mo (INR 23,578 → INR 10,078)",67%,42,low,Young Accumulator,49.51,479654,0,5,0,0,3,3
+878,EMERGENCY_FUND_BUILD,"Save INR 10,500/mo toward emergency fund (INR 175,836 gap, ~16 months)",68%,57,moderate,Aggressive Investor,91.85,720696,6,2,2,0,2,4
+879,HOLD,Hold current positions — no changes needed,70%,43,low,Conservative Saver,75.04,765944,4,0,3,0,4,4
+880,REBALANCE,"Move INR 286,812 from equity to debt (97% → 60% equity)",93%,46,moderate,Conservative Saver,97.36,766878,7,1,4,0,5,4
+881,EMERGENCY_FUND_BUILD,"Save INR 18,500/mo toward emergency fund (INR 296,238 gap, ~16 months)",85%,67,high,High-Risk Beginner,86.1,1148181,7,3,0,0,2,3
+882,EMERGENCY_FUND_BUILD,"Save INR 9,000/mo toward emergency fund (INR 118,260 gap, ~13 months)",85%,75,high,Goal Chaser,94.85,1062425,8,4,3,0,4,3
+883,SELL,"Sell INR 74,517 of equity holdings (30% of equity)",88%,41,low,Goal Chaser,74.21,334698,1,2,1,0,3,4
+884,EMERGENCY_FUND_BUILD,"Save INR 6,000/mo toward emergency fund (INR 120,195 gap, ~20 months)",77%,60,moderate,Debt-Heavy Struggler,84.24,277491,1,4,1,0,5,4
+885,HOLD,Hold current positions — no changes needed,68%,55,moderate,Aggressive Investor,64.26,378051,1,4,2,0,3,4
+886,REDUCE_SIP,"Reduce SIP by INR 9,500/mo (INR 16,053 → INR 6,553)",67%,47,moderate,Debt-Heavy Struggler,69.5,414602,2,5,1,0,3,4
+887,SELL,"Sell INR 229,696 of equity holdings (40% of equity)",93%,48,moderate,Goal Chaser,100.0,574241,6,1,5,0,4,4
+888,EMERGENCY_FUND_BUILD,"Save INR 8,000/mo toward emergency fund (INR 232,215 gap, ~29 months)",85%,69,high,Balanced Planner,97.56,686409,8,4,2,0,4,4
+889,REBALANCE,"Move INR 261,420 from equity to debt (90% → 60% equity)",97%,51,moderate,Goal Chaser,90.03,871400,7,0,5,0,4,4
+890,EMERGENCY_FUND_BUILD,"Save INR 9,000/mo toward emergency fund (INR 243,112 gap, ~27 months)",73%,75,high,Debt-Heavy Struggler,90.3,692947,4,6,2,0,1,3
+891,EMERGENCY_FUND_BUILD,"Save INR 2,500/mo toward emergency fund (INR 117,264 gap, ~46 months)",60%,53,moderate,Aggressive Investor,88.46,812330,5,0,3,0,5,4
+892,REBALANCE,"Move INR 24,108 from equity to debt (100% → 70% equity)",85%,48,moderate,Aggressive Investor,100.0,80362,0,1,0,0,5,3
+893,EMERGENCY_FUND_BUILD,"Save INR 1,000/mo toward emergency fund (INR 88,004 gap, ~88 months)",73%,68,high,High-Risk Beginner,73.75,959439,4,5,2,0,3,4
+894,REBALANCE,"Move INR 332,623 from equity to debt (100% → 60% equity)",93%,52,moderate,Conservative Saver,100.0,831559,6,2,2,0,4,4
+895,REBALANCE,"Move INR 157,408 from equity to debt (86% → 65% equity)",78%,47,moderate,Passive Holder,86.07,746010,5,2,3,0,2,4
+896,REBALANCE,"Move INR 145,410 from equity to debt (100% → 70% equity)",85%,55,moderate,Aggressive Investor,100.0,484703,7,1,3,0,5,4
+897,SWITCH_TO_DEBT,"Shift INR 307,437 from equity to debt funds (79% → 49.4% equity)",90%,30,low,Conservative Saver,79.37,1291138,8,6,2,0,1,3
+898,REBALANCE,"Move INR 203,137 from equity to debt (94% → 60% equity)",93%,46,moderate,Young Accumulator,93.93,599226,4,2,3,0,4,4
+899,START_SIP,"Start SIP at INR 5,500/mo (9.8% of salary)",79%,52,moderate,Conservative Saver,71.81,579365,4,4,2,0,4,4
+900,EMERGENCY_FUND_BUILD,"Save INR 3,500/mo toward emergency fund (INR 121,364 gap, ~34 months)",65%,70,high,High-Risk Beginner,67.4,310046,2,0,2,0,5,4
+901,REBALANCE,"Move INR 149,008 from equity to debt (96% → 65% equity)",93%,58,moderate,Balanced Planner,95.82,483795,4,0,3,0,4,4
+902,REBALANCE,"Move INR 144,322 from equity to debt (100% → 60% equity)",93%,56,moderate,Aggressive Investor,100.0,360806,6,0,4,0,5,4
+903,EMERGENCY_FUND_BUILD,"Save INR 5,000/mo toward emergency fund (INR 81,740 gap, ~16 months)",72%,47,moderate,Aggressive Investor,71.28,415039,2,4,1,0,1,3
+904,EMERGENCY_FUND_BUILD,"Save INR 2,500/mo toward emergency fund (INR 260,132 gap, ~104 months)",73%,73,high,Debt-Heavy Struggler,80.09,619846,3,6,2,0,2,4
+905,SWITCH_TO_DEBT,"Shift INR 33,818 from equity to debt funds (51% → 40.0% equity)",83%,42,low,Goal Chaser,50.9,609412,2,3,0,0,4,3
+906,INCREASE_SIP,"Increase SIP by INR 1,000/mo (INR 22,205 → INR 23,205)",87%,41,low,Balanced Planner,73.79,375120,2,4,1,0,4,4
+907,DIVERSIFY_PORTFOLIO,"Add 1 stocks + 2 mutual funds, invest INR 5,000/mo across new instruments",78%,47,moderate,Passive Holder,15.34,232828,0,2,0,0,3,3
+908,REBALANCE,"Move INR 175,249 from equity to debt (82% → 65% equity)",75%,38,low,Goal Chaser,82.42,1007182,4,6,2,0,2,4
+909,REBALANCE,"Move INR 171,436 from equity to debt (98% → 70% equity)",92%,60,moderate,Goal Chaser,97.87,614466,6,2,3,0,5,4
+910,HOLD,Hold current positions — no changes needed,75%,38,low,Balanced Planner,40.06,305825,0,6,0,0,4,3
+911,REBALANCE,"Move INR 99,945 from equity to debt (87% → 65% equity)",78%,53,moderate,Debt-Heavy Struggler,86.67,460580,1,6,0,0,2,3
+912,REDUCE_SIP,"Reduce SIP by INR 10,000/mo (INR 17,124 → INR 7,124)",77%,46,moderate,Aggressive Investor,73.74,426461,4,0,2,0,5,4
+913,EMERGENCY_FUND_BUILD,"Save INR 6,000/mo toward emergency fund (INR 217,338 gap, ~36 months)",88%,71,high,Balanced Planner,86.04,1262815,8,5,3,0,3,4
+914,REBALANCE,"Move INR 204,307 from equity to debt (87% → 60% equity)",78%,42,low,Conservative Saver,86.71,765198,2,6,2,0,1,3
+915,EMERGENCY_FUND_BUILD,"Save INR 3,500/mo toward emergency fund (INR 222,546 gap, ~63 months)",93%,68,high,Debt-Heavy Struggler,87.59,1015414,6,4,2,0,2,4
+916,EMERGENCY_FUND_BUILD,"Save INR 7,000/mo toward emergency fund (INR 72,912 gap, ~10 months)",68%,66,high,Goal Chaser,85.18,757784,8,6,3,0,3,4
+917,INCREASE_SIP,"Increase SIP by INR 12,500/mo (INR 8,072 → INR 20,572)",92%,35,low,Aggressive Investor,76.26,586413,5,1,2,0,4,4
+918,REBALANCE,"Move INR 312,694 from equity to debt (98% → 65% equity)",93%,41,low,Balanced Planner,97.93,950439,8,6,3,0,3,3
+919,START_SIP,"Start SIP at INR 8,500/mo (14.6% of salary)",93%,37,low,Young Accumulator,34.41,127387,2,0,1,0,4,4
+920,CONTINUE_SIP,"Continue SIP at INR 16,266/mo — on track (20.1% of salary)",85%,41,low,Balanced Planner,0.0,46687,0,1,0,0,5,3
+921,REBALANCE,"Move INR 359,211 from equity to debt (89% → 60% equity)",78%,50,moderate,Young Accumulator,89.41,1221807,8,6,1,0,1,3
+922,REBALANCE,"Move INR 115,150 from equity to debt (81% → 70% equity)",60%,50,moderate,Aggressive Investor,80.8,1066211,7,3,0,0,4,2
+923,EMERGENCY_FUND_BUILD,"Save INR 3,500/mo toward emergency fund (INR 85,032 gap, ~24 months)",80%,59,moderate,Balanced Planner,85.34,1313769,8,6,1,0,2,3
+924,CONTINUE_SIP,"Continue SIP at INR 6,428/mo — on track (8.3% of salary)",90%,37,low,Aggressive Investor,75.02,652171,7,1,4,0,4,4
+925,SELL,"Sell INR 159,794 of equity holdings (30% of equity)",88%,42,low,Goal Chaser,70.63,754132,4,6,0,0,2,3
+926,EMERGENCY_FUND_BUILD,"Save INR 3,500/mo toward emergency fund (INR 389,330 gap, ~111 months)",80%,73,high,Goal Chaser,58.41,181597,1,3,0,0,4,3
+927,REBALANCE,"Move INR 173,405 from equity to debt (86% → 65% equity)",78%,45,low,Balanced Planner,85.97,825742,7,1,3,0,3,4
+928,REBALANCE,"Move INR 101,853 from equity to debt (100% → 70% equity)",85%,46,moderate,Aggressive Investor,100.0,339510,2,4,1,0,3,4
+929,REBALANCE,"Move INR 139,829 from equity to debt (90% → 65% equity)",93%,40,low,Balanced Planner,90.43,550511,2,4,3,0,3,4
+930,EMERGENCY_FUND_BUILD,"Save INR 10,000/mo toward emergency fund (INR 242,574 gap, ~24 months)",85%,56,moderate,Balanced Planner,100.0,390402,2,4,2,0,2,4
+931,REBALANCE,"Move INR 158,638 from equity to debt (93% → 60% equity)",97%,58,moderate,Goal Chaser,92.83,483653,3,2,2,0,4,4
+932,EMERGENCY_FUND_BUILD,"Save INR 5,000/mo toward emergency fund (INR 130,992 gap, ~26 months)",73%,65,high,High-Risk Beginner,84.12,475991,3,4,2,0,2,4
+933,EMERGENCY_FUND_BUILD,"Save INR 3,000/mo toward emergency fund (INR 176,792 gap, ~58 months)",65%,78,very_high,Debt-Heavy Struggler,80.15,713514,5,6,2,0,2,4
+934,EMERGENCY_FUND_BUILD,"Save INR 5,000/mo toward emergency fund (INR 217,328 gap, ~43 months)",68%,58,moderate,High-Risk Beginner,58.34,453687,3,0,2,0,4,4
+935,EMERGENCY_FUND_BUILD,"Save INR 9,000/mo toward emergency fund (INR 322,464 gap, ~35 months)",85%,57,moderate,Aggressive Investor,72.76,208043,1,3,0,0,4,3
+936,HOLD,Hold current positions — no changes needed,68%,57,moderate,High-Risk Beginner,77.87,613339,5,0,3,0,5,4
+937,REBALANCE,"Move INR 165,637 from equity to debt (89% → 70% equity)",70%,38,low,Aggressive Investor,89.43,853799,4,6,4,0,3,4
+938,REBALANCE,"Move INR 130,352 from equity to debt (86% → 70% equity)",70%,54,moderate,High-Risk Beginner,85.51,840987,5,0,2,0,5,4
+939,REBALANCE,"Move INR 169,670 from equity to debt (87% → 70% equity)",70%,48,moderate,Young Accumulator,86.94,1003968,6,5,3,0,3,4
+940,SWITCH_TO_DEBT,"Shift INR 208,334 from equity to debt funds (74% → 43.7% equity)",87%,45,low,Goal Chaser,73.71,942074,7,1,3,0,3,4
+941,EMERGENCY_FUND_BUILD,"Save INR 4,000/mo toward emergency fund (INR 234,164 gap, ~58 months)",68%,61,high,High-Risk Beginner,91.19,674544,5,6,2,0,3,4
+942,SWITCH_TO_DEBT,"Shift INR 61,706 from equity to debt funds (75% → 45.0% equity)",90%,32,low,Conservative Saver,74.97,274368,0,5,0,0,2,3
+943,EMERGENCY_FUND_BUILD,"Save INR 7,500/mo toward emergency fund (INR 250,290 gap, ~33 months)",88%,74,high,Goal Chaser,76.33,569171,2,3,2,0,3,4
+944,EMERGENCY_FUND_BUILD,"Save INR 3,500/mo toward emergency fund (INR 202,869 gap, ~57 months)",73%,68,high,Debt-Heavy Struggler,100.0,512495,6,0,2,0,5,4
+945,START_SIP,"Start SIP at INR 7,500/mo (11.4% of salary)",86%,36,low,Young Accumulator,73.59,1161764,7,5,1,0,1,2
+946,EMERGENCY_FUND_BUILD,"Save INR 3,500/mo toward emergency fund (INR 148,376 gap, ~42 months)",60%,66,high,High-Risk Beginner,85.72,603302,4,2,2,0,3,4
+947,REBALANCE,"Move INR 255,552 from equity to debt (97% → 65% equity)",93%,44,low,Balanced Planner,96.56,808709,8,4,4,0,4,4
+948,REBALANCE,"Move INR 192,162 from equity to debt (92% → 70% equity)",85%,50,moderate,High-Risk Beginner,91.99,873466,8,0,2,0,4,4
+949,START_SIP,"Start SIP at INR 12,632/mo (13.9% of salary)",93%,44,low,Young Accumulator,55.78,765006,2,5,0,0,2,3
+950,REBALANCE,"Move INR 460,420 from equity to debt (100% → 60% equity)",93%,38,low,Aggressive Investor,100.0,1151051,8,3,2,0,4,4
+951,REBALANCE,"Move INR 133,684 from equity to debt (98% → 60% equity)",97%,52,moderate,Conservative Saver,97.98,351800,2,1,2,0,3,4
+952,START_SIP,"Start SIP at INR 12,652/mo (14.5% of salary)",97%,37,low,Young Accumulator,24.45,313825,0,3,0,0,3,3
+953,DIVERSIFY_PORTFOLIO,"Add 1 stocks + 2 mutual funds, invest INR 1,000/mo across new instruments",83%,46,moderate,Aggressive Investor,56.38,269810,0,2,1,0,3,4
+954,REBALANCE,"Move INR 267,788 from equity to debt (99% → 65% equity)",97%,50,moderate,Goal Chaser,99.26,780724,3,6,1,0,1,3
+955,EMERGENCY_FUND_BUILD,"Save INR 4,000/mo toward emergency fund (INR 241,056 gap, ~60 months)",68%,62,high,Young Accumulator,95.27,346893,2,0,2,0,5,4
+956,HOLD,Hold current positions — no changes needed,75%,43,low,Aggressive Investor,79.76,1057371,5,6,1,0,2,4
+957,REBALANCE,"Move INR 108,514 from equity to debt (83% → 70% equity)",60%,40,low,Aggressive Investor,83.48,803814,6,5,1,0,1,3
+958,REBALANCE,"Move INR 185,810 from equity to debt (86% → 70% equity)",70%,56,moderate,High-Risk Beginner,85.6,1191096,8,5,3,0,3,4
+959,REBALANCE,"Move INR 126,173 from equity to debt (80% → 60% equity)",68%,42,low,Aggressive Investor,80.25,624619,6,4,2,0,3,4
+960,SELL,"Sell INR 190,850 of equity holdings (30% of equity)",88%,59,moderate,Goal Chaser,97.6,651814,4,2,3,0,4,4
+961,STOP_SIP,"Stop SIP and free up INR 11,274/mo for essentials",75%,37,low,Aggressive Investor,75.02,591649,5,1,2,0,3,4
+962,START_SIP,"Start SIP at INR 10,675/mo (10.7% of salary)",97%,29,low,Young Accumulator,79.37,714789,5,1,2,0,5,4
+963,EMERGENCY_FUND_BUILD,"Save INR 2,000/mo toward emergency fund (INR 130,550 gap, ~65 months)",80%,61,high,High-Risk Beginner,85.63,821325,7,1,3,0,3,4
+964,EMERGENCY_FUND_BUILD,"Save INR 7,000/mo toward emergency fund (INR 295,488 gap, ~42 months)",73%,65,high,Young Accumulator,68.08,670432,2,4,2,0,1,3
+965,INCREASE_SIP,"Increase SIP by INR 12,000/mo (INR 7,556 → INR 19,556)",93%,43,low,Aggressive Investor,67.73,1078472,5,6,3,0,1,3
+966,EMERGENCY_FUND_BUILD,"Save INR 10,500/mo toward emergency fund (INR 139,242 gap, ~13 months)",80%,57,moderate,Goal Chaser,79.21,609560,4,0,2,0,4,4
+967,SELL,"Sell INR 114,635 of equity holdings (40% of equity)",97%,52,moderate,Goal Chaser,57.53,498176,2,0,2,0,4,4
+968,EMERGENCY_FUND_BUILD,"Save INR 1,000/mo toward emergency fund (INR 224,656 gap, ~224 months)",73%,61,high,Debt-Heavy Struggler,81.98,963719,5,6,0,0,3,3
+969,START_SIP,"Start SIP at INR 6,500/mo (9.6% of salary)",87%,40,low,Aggressive Investor,75.56,747276,5,3,1,0,3,4
+970,REBALANCE,"Move INR 433,658 from equity to debt (100% → 60% equity)",97%,42,low,Goal Chaser,100.0,1084146,7,2,4,0,4,4
+971,EMERGENCY_FUND_BUILD,"Save INR 8,500/mo toward emergency fund (INR 121,840 gap, ~14 months)",65%,65,high,Goal Chaser,72.39,795942,4,6,0,0,3,3
+972,REBALANCE,"Move INR 118,668 from equity to debt (82% → 65% equity)",68%,33,low,Balanced Planner,81.95,702178,5,0,3,0,5,4
+973,REBALANCE,"Move INR 173,376 from equity to debt (100% → 60% equity)",93%,48,moderate,Young Accumulator,100.0,433440,5,1,3,0,4,4
+974,REBALANCE,"Move INR 92,606 from equity to debt (100% → 65% equity)",93%,48,moderate,Aggressive Investor,100.0,264590,2,0,2,0,5,4
+975,EMERGENCY_FUND_BUILD,"Save INR 3,000/mo toward emergency fund (INR 177,273 gap, ~59 months)",73%,61,high,High-Risk Beginner,98.14,595783,4,5,0,0,3,3
+976,EMERGENCY_FUND_BUILD,"Save INR 4,500/mo toward emergency fund (INR 226,824 gap, ~50 months)",85%,66,high,Young Accumulator,86.61,621263,4,2,4,0,4,4
+977,REBALANCE,"Move INR 97,082 from equity to debt (100% → 60% equity)",93%,45,low,Passive Holder,100.0,242705,3,0,2,0,5,4
+978,CONTINUE_SIP,"Continue SIP at INR 7,042/mo — on track (21.6% of salary)",92%,44,low,Young Accumulator,68.59,301216,3,1,2,0,5,4
+979,SELL,"Sell INR 201,762 of equity holdings (30% of equity)",88%,50,moderate,Goal Chaser,76.97,873817,7,2,3,0,4,4
+980,REBALANCE,"Move INR 123,341 from equity to debt (85% → 65% equity)",78%,43,low,Young Accumulator,85.32,607596,6,0,3,0,4,4
+981,SELL,"Sell INR 184,474 of equity holdings (30% of equity)",88%,47,moderate,Goal Chaser,99.03,620966,3,3,3,0,5,4
+982,EMERGENCY_FUND_BUILD,"Save INR 20,000/mo toward emergency fund (INR 305,502 gap, ~15 months)",85%,59,moderate,Goal Chaser,91.35,711038,3,5,2,0,4,4
+983,EMERGENCY_FUND_BUILD,"Save INR 3,500/mo toward emergency fund (INR 203,612 gap, ~58 months)",73%,59,moderate,Aggressive Investor,98.82,1025562,8,3,3,0,3,3
+984,EMERGENCY_FUND_BUILD,"Save INR 3,000/mo toward emergency fund (INR 128,980 gap, ~42 months)",85%,68,high,Debt-Heavy Struggler,87.23,930304,5,5,2,0,2,4
+985,REBALANCE,"Move INR 270,795 from equity to debt (92% → 60% equity)",93%,37,low,Conservative Saver,91.64,856949,7,6,3,0,4,4
+986,EMERGENCY_FUND_BUILD,"Save INR 5,500/mo toward emergency fund (INR 232,716 gap, ~42 months)",60%,49,moderate,Balanced Planner,63.17,576809,3,4,1,0,2,4
+987,REBALANCE,"Move INR 112,239 from equity to debt (83% → 70% equity)",67%,59,moderate,Goal Chaser,83.48,831401,6,5,1,0,1,3
+988,INCREASE_SIP,"Increase SIP by INR 1,000/mo (INR 21,549 → INR 22,549)",93%,34,low,Aggressive Investor,62.77,290856,1,4,0,0,4,3
+989,REBALANCE,"Move INR 128,230 from equity to debt (94% → 70% equity)",85%,50,moderate,Aggressive Investor,94.46,523391,4,2,2,0,4,4
+990,REBALANCE,"Move INR 302,280 from equity to debt (91% → 65% equity)",97%,64,high,Balanced Planner,90.96,1162619,8,6,4,0,1,3
+991,REDUCE_SIP,"Reduce SIP by INR 4,500/mo (INR 13,246 → INR 8,746)",67%,40,low,Balanced Planner,44.39,215692,0,3,0,0,2,3
+992,HOLD,Hold current positions — no changes needed,77%,29,low,Passive Holder,30.24,275071,2,1,1,0,3,4
+993,STOP_SIP,"Stop SIP and free up INR 11,479/mo for essentials",75%,62,high,High-Risk Beginner,85.85,713570,5,1,3,0,3,4
+994,INCREASE_SIP,"Increase SIP by INR 2,500/mo (INR 12,665 → INR 15,165)",87%,41,low,Balanced Planner,46.93,527820,0,6,0,0,1,2
+995,REBALANCE,"Move INR 175,966 from equity to debt (87% → 70% equity)",70%,42,low,Aggressive Investor,87.3,1017148,7,5,2,0,3,4
+996,HOLD,Hold current positions — no changes needed,68%,55,moderate,Aggressive Investor,68.06,732983,5,4,3,0,3,4
+997,HOLD,Hold current positions — no changes needed,75%,43,low,Goal Chaser,50.75,417654,1,6,1,0,2,4
+998,REBALANCE,"Move INR 227,692 from equity to debt (84% → 60% equity)",68%,56,moderate,Young Accumulator,83.58,964798,6,2,0,0,3,3
+999,CONTINUE_SIP,"Continue SIP at INR 14,170/mo — on track (18.1% of salary)",85%,36,low,Balanced Planner,44.52,380337,1,3,0,0,3,3
+1000,REBALANCE,"Move INR 251,019 from equity to debt (92% → 65% equity)",93%,39,low,Balanced Planner,92.15,922865,7,3,4,0,4,4
